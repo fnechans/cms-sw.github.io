@@ -12839,8 +12839,8 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc491/www/sun/7.4-sun-00/CMSSW_7_4_X_2016-07-31-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 552, 
-                            "num_failed": 90
+                            "num_passed": 566, 
+                            "num_failed": 91
                         }
                     }
                 ], 
@@ -13232,7 +13232,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc493/www/sun/7.6-sun-00/CMSSW_7_6_X_2016-07-31-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 511, 
+                            "num_passed": 669, 
                             "num_failed": 64
                         }
                     }, 
@@ -17236,7 +17236,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.1.DEVEL-sun-00/CMSSW_8_1_DEVEL_X_2016-07-31-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 842, 
+                            "num_passed": 878, 
                             "num_failed": 2
                         }
                     }
@@ -26247,7 +26247,16 @@
                 "hlt_tests": "found"
             }, 
             {
-                "fwlite": [], 
+                "fwlite": [
+                    {
+                        "arch": "slc6_amd64_gcc530", 
+                        "passed": "passed", 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.1-sun-11/CMSSW_8_1_X_2016-07-31-1100/new_FWLITE/logAnalysis.pkl", 
+                        "details": {
+                            "ignoreWarning": 1
+                        }
+                    }
+                ], 
                 "cmsdistTags": {
                     "slc6_amd64_gcc530": "IB/CMSSW_8_1_X_2016-07-31-0000/slc6_amd64_gcc530"
                 }, 
