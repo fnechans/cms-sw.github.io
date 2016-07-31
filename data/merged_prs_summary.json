@@ -2017,7 +2017,7 @@
                 "static_checks": "not-found", 
                 "isIB": true, 
                 "hlt_tests": "not-found", 
-                "comp_baseline": "inprogress", 
+                "comp_baseline": "https://cmssdt.cern.ch/SDT/jenkins-artifacts/ib-baseline-tests/CMSSW_6_2_SLHCDEV_X_2016-07-31-0000/slc6_amd64_gcc472/-GenuineIntel/matrix-results", 
                 "inProgress": false, 
                 "release_name": "CMSSW_6_2_SLHCDEV_X_2016-07-31-0000", 
                 "tests_archs": [
@@ -14862,7 +14862,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/8.0-sun-00/CMSSW_8_0_X_2016-07-31-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 123, 
+                            "num_passed": 194, 
                             "num_failed": 0
                         }
                     }, 
@@ -25584,7 +25584,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/8.1-sun-00/CMSSW_8_1_X_2016-07-31-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 186, 
+                            "num_passed": 271, 
                             "num_failed": 0
                         }
                     }, 
