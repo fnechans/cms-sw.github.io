@@ -1,6 +1,33 @@
 [
     {
         "exitcode": 1,
+        "id": "4.35",
+        "name": "WMuSkim2011B+WMuSkim2011B+HLTDSKIM+RECODreHLT+HARVESTDreHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "DAS_ERROR",
+                "warnings": 0
+            },
+            {
+                "errors": -1,
+                "status": "NOTRUN",
+                "warnings": -1
+            },
+            {
+                "errors": -1,
+                "status": "NOTRUN",
+                "warnings": -1
+            },
+            {
+                "errors": -1,
+                "status": "NOTRUN",
+                "warnings": -1
+            }
+        ]
+    },
+    {
+        "exitcode": 1,
         "id": "34.0",
         "name": "QQH1352T+QQH1352TINPUT+DIGI+RECO+HARVEST",
         "steps": [
@@ -5030,6 +5057,33 @@
     },
     {
         "exitcode": 0,
+        "id": "134.0",
+        "name": "MinimumBiasBS+RunMinBias2011B+RECOD+ALCAPROMPT+ALCAHARVD",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 111,
+                "status": "PASSED",
+                "warnings": 798
+            },
+            {
+                "errors": 88,
+                "status": "PASSED",
+                "warnings": 2
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 2
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "134.703",
         "name": "RunDoubleMuon2015B+RunDoubleMuon2015B+HLTDR250ns+RECODR250nsreHLT+HARVESTDR2reHLT",
         "steps": [
@@ -5128,6 +5182,33 @@
                 "errors": 11,
                 "status": "PASSED",
                 "warnings": 990
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 7
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.802",
+        "name": "RunDoubleEG2015C+RunDoubleEG2015C+HLTDR225ns+RECODR225nsreHLT+HARVESTDR2reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 735
+            },
+            {
+                "errors": 11,
+                "status": "PASSED",
+                "warnings": 696
             },
             {
                 "errors": 0,
@@ -6408,6 +6489,28 @@
     },
     {
         "exitcode": 0,
+        "id": "1002.0",
+        "name": "RRD+RunMinBias2011A+RECOD+COPYPASTE",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 511,
+                "status": "PASSED",
+                "warnings": 991
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 32
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "1003.0",
         "name": "RunMinBias2012A+RunMinBias2012A+RECODDQM+HARVESTDDQM",
         "steps": [
@@ -6687,6 +6790,28 @@
                 "errors": 11,
                 "status": "PASSED",
                 "warnings": 84
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "25408.0",
+        "name": "FS_SMS-T1tttt_mGl-1500_mLSP-100_13_PU25+FS_SMS-T1tttt_mGl-1500_mLSP-100_13_PU25+HARVESTUP15FS+MINIAODMCUP15FS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 2793
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 11,
+                "status": "PASSED",
+                "warnings": 3
             }
         ]
     },
