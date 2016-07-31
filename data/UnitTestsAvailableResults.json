@@ -193,5 +193,6 @@
     "CMSSW_8_1_X_2016-07-27-1600": "slc6_amd64_gcc493,slc6_amd64_gcc530,slc6_amd64_gcc600,slc7_amd64_gcc530", 
     "CMSSW_8_0_X_2016-07-27-2300": "slc6_amd64_gcc493,slc6_amd64_gcc530,slc7_amd64_gcc530", 
     "CMSSW_8_0_X_2016-07-21-1100": "slc6_amd64_gcc493,slc6_amd64_gcc530,slc7_amd64_gcc530", 
+    "CMSSW_6_2_X_SLHC_2016-07-31-0000": "slc6_amd64_gcc472", 
     "CMSSW_8_0_X_2016-07-19-2300": "slc6_amd64_gcc493,slc6_amd64_gcc530,slc7_amd64_gcc530"
 }
