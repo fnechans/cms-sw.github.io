@@ -6879,7 +6879,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/sun/8.1-sun-00/CMSSW_8_1_X_2016-07-31-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 21, 
+                        "num_passed": 25, 
                         "num_failed": 0
                     }
                 }, 
@@ -6988,7 +6988,7 @@
             "static_checks": "inprogress", 
             "igprof": "found", 
             "isIB": true, 
-            "comp_baseline": "inprogress", 
+            "comp_baseline": "https://cmssdt.cern.ch/SDT/jenkins-artifacts/ib-baseline-tests/CMSSW_8_1_X_2016-07-31-1100/slc6_amd64_gcc530/-GenuineIntel/matrix-results", 
             "inProgress": false, 
             "release_name": "CMSSW_8_1_X_2016-07-31-1100", 
             "tests_archs": [
