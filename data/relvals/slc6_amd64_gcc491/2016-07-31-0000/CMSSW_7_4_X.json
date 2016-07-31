@@ -2453,6 +2453,28 @@
     },
     {
         "exitcode": 0,
+        "id": "1.0",
+        "name": "ProdMinBias+ProdMinBias+DIGIPROD1+RECOPROD1",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 48
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 66
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 277
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "2.0",
         "name": "ProdTTbar+ProdTTbar+DIGIPROD1+RECOPROD1",
         "steps": [
@@ -3392,6 +3414,33 @@
     },
     {
         "exitcode": 0,
+        "id": "4.58",
+        "name": "WElSkim2012B+WElSkim2012B+HLTDSKIM+RECODreHLT+HARVESTDreHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 54
+            },
+            {
+                "errors": 111,
+                "status": "PASSED",
+                "warnings": 590
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 7
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.6",
         "name": "MinimumBias2010A+MinimumBias2010A+RECOSKIM+HARVESTD",
         "steps": [
@@ -3838,6 +3887,38 @@
     },
     {
         "exitcode": 0,
+        "id": "8.0",
+        "name": "BeamHalo+BeamHaloINPUT+DIGICOS+RECOCOS+ALCABH+HARVESTCOS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 98
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 308
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 17
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 12
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "9.0",
         "name": "Higgs200ChargedTaus+Higgs200ChargedTausINPUT+DIGI+RECO+HARVEST",
         "steps": [
@@ -3941,6 +4022,33 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 177
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "13.0",
+        "name": "QCD_Pt_3000_3500+QCD_Pt_3000_3500INPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 79
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 130
             },
             {
                 "errors": 3,
@@ -5067,6 +5175,28 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 113
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "127.0",
+        "name": "SingleGammaFlatPt10To100+SingleGammaFlatPt10To100+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 20
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 55
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 265
             }
         ]
     },
@@ -6847,6 +6977,28 @@
     },
     {
         "exitcode": 0,
+        "id": "4001.0",
+        "name": "TTbar+TTbarINPUT+DIGIPU1+RECOPUDBG",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 98
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 294
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4002.0",
         "name": "ZEE+ZEEINPUT+DIGI+RECO",
         "steps": [
@@ -6908,6 +7060,28 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 1
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4008.0",
+        "name": "QCD_Pt_80_170_BCtoE_8TeV+QCD_Pt_80_170_BCtoE_8TeV+DIGIPU1+RECOPUDBG",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 6
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 7
             }
         ]
     },
