@@ -24952,7 +24952,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/fri/8.1-fri-23/CMSSW_8_1_X_2016-07-29-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 989, 
+                            "num_passed": 1005, 
                             "num_failed": 1
                         }
                     }, 
