@@ -3468,6 +3468,25 @@
     },
     {
         "exitcode": 0,
+        "id": "134.901",
+        "name": "RunHLTPhy2015D+RunHLTPhy2015D+HLTDR2_25ns+RECODR2_25nsreHLT+HARVESTDR2",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "134.902",
         "name": "RunDoubleEG2015D+RunDoubleEG2015D+HLTDR2_25ns+RECODR2_25nsreHLT+HARVESTDR2",
         "steps": [
@@ -3490,6 +3509,25 @@
                 "errors": 1,
                 "status": "PASSED",
                 "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.905",
+        "name": "RunMET2015D+RunMET2015D+HLTDR2_25ns+RECODR2_25nsreHLT+HARVESTDR2",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
             }
         ]
     },
@@ -4512,6 +4550,25 @@
                 "errors": 342,
                 "status": "PASSED",
                 "warnings": 1167
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "145.0",
+        "name": "HydjetQ_MinBias_5020GeV+HydjetQ_MinBias_5020GeVINPUT+DIGIHI+RECOHI+HARVESTHI",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
             }
         ]
     },
@@ -5912,6 +5969,25 @@
     },
     {
         "exitcode": 0,
+        "id": "1312.0",
+        "name": "ZpMM_13+ZpMM_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "1313.0",
         "name": "QCD_Pt_3000_3500_13+QCD_Pt_3000_3500_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
         "steps": [
@@ -6150,6 +6226,25 @@
                 "errors": 1,
                 "status": "PASSED",
                 "warnings": 8
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1325.2",
+        "name": "TTbar_13+TTbar_13INPUT+DIGIUP15+RECOUP15_trackingLowPU+HARVESTUP15",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
             }
         ]
     },
