@@ -774,6 +774,33 @@
     },
     {
         "exitcode": 0,
+        "id": "12.0",
+        "name": "ZpMM+ZpMMINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 13
+            },
+            {
+                "errors": 566,
+                "status": "PASSED",
+                "warnings": 853
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "24.0",
         "name": "TTbarLepton+TTbarLeptonINPUT+DIGI+RECO+HARVEST",
         "steps": [
@@ -1095,6 +1122,33 @@
                 "errors": 145,
                 "status": "PASSED",
                 "warnings": 110
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.701",
+        "name": "RunHLTPhy2015B+RunHLTPhy2015B+HLTDR2_50ns+RECODR2_50nsreHLT+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 10
+            },
+            {
+                "errors": 586,
+                "status": "PASSED",
+                "warnings": 494
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 11
             }
         ]
     },
@@ -1576,6 +1630,60 @@
                 "errors": 808,
                 "status": "PASSED",
                 "warnings": 575
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.812",
+        "name": "RunZeroBias2015C+RunZeroBias2015C+HLTDR2_25ns+RECODR2_25nsreHLT+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 8
+            },
+            {
+                "errors": 493,
+                "status": "PASSED",
+                "warnings": 609
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.901",
+        "name": "RunHLTPhy2015D+RunHLTPhy2015D+HLTDR2_25ns+RECODR2_25nsreHLT+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 5
+            },
+            {
+                "errors": 675,
+                "status": "PASSED",
+                "warnings": 547
             },
             {
                 "errors": 1,
@@ -2611,6 +2719,33 @@
                 "errors": 3,
                 "status": "PASSED",
                 "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "300.0",
+        "name": "Pyquen_GammaJet_pt20_2760GeV+Pyquen_GammaJet_pt20_2760GeV+DIGIHIMIX+RECOHIMIX+HARVESTHI",
+        "steps": [
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 32
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 3
+            },
+            {
+                "errors": 484,
+                "status": "PASSED",
+                "warnings": 6
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 10
             }
         ]
     },

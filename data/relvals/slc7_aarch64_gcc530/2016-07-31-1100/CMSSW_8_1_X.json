@@ -1,6 +1,33 @@
 [
     {
         "exitcode": 0,
+        "id": "4.57",
+        "name": "ZElSkim2012B+ZElSkim2012B+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            },
+            {
+                "errors": 413,
+                "status": "PASSED",
+                "warnings": 518
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 10
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.65",
         "name": "RunJet2012C+RunJet2012C+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
         "steps": [
@@ -501,6 +528,28 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 13
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "11024.0",
+        "name": "TTbar_13+TTbar_13TeV_TuneCUETP8M1_2023LReco_GenSimFull+DigiFull_2023LReco+RecoFullLocal_2023LReco",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 11
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 10
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 7
             }
         ]
     },
