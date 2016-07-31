@@ -141,7 +141,7 @@
                 }
             ], 
             "compared_tags": "CMSSW_7_6_X_2016-07-24-0000-->CMSSW_7_6_X_2016-07-31-0000", 
-            "valgrind": "inprogress", 
+            "valgrind": "found", 
             "utests": [
                 {
                     "arch": "slc7_amd64_gcc493", 

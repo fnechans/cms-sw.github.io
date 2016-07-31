@@ -5019,7 +5019,17 @@
             "hlt_tests": "found"
         }, 
         {
-            "fwlite": [], 
+            "fwlite": [
+                {
+                    "arch": "slc6_amd64_gcc491", 
+                    "passed": "error", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc491/www/sun/7.4-sun-00/CMSSW_7_4_X_2016-07-31-0000/new_FWLITE/logAnalysis.pkl", 
+                    "details": {
+                        "linkError": 26, 
+                        "compError": 2
+                    }
+                }
+            ], 
             "addons": [
                 {
                     "arch": "slc6_amd64_gcc491", 
@@ -5052,7 +5062,7 @@
                     }
                 }
             ], 
-            "dqm_tests": "inprogress", 
+            "dqm_tests": "found", 
             "igprof": "not-found", 
             "relvals": [], 
             "static_checks": "inprogress", 
