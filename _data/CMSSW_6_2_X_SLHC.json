@@ -3707,16 +3707,29 @@
             "utests": [
                 {
                     "arch": "slc6_amd64_gcc472", 
-                    "passed": "unknown", 
-                    "file": "['/data/sdt/buildlogs/slc6_amd64_gcc472/www/sun/6.2-sun-00/CMSSW_6_2_X_SLHC_2016-07-31-0000/new/logAnalysis.pkl']", 
-                    "details": {}
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc472/www/sun/6.2-sun-00/CMSSW_6_2_X_SLHC_2016-07-31-0000/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "16"
+                    }
                 }
             ], 
             "cmsdistTags": {
                 "slc6_amd64_gcc472": "IB/CMSSW_6_2_X_SLHC_2016-07-31-0000/slc6_amd64_gcc472"
             }, 
             "igprof": "not-found", 
-            "relvals": [], 
+            "relvals": [
+                {
+                    "done": false, 
+                    "arch": "slc6_amd64_gcc472", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc472/www/sun/6.2-sun-00/CMSSW_6_2_X_SLHC_2016-07-31-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 14, 
+                        "num_failed": 10
+                    }
+                }
+            ], 
             "static_checks": "not-found", 
             "isIB": true, 
             "tests_archs": [
@@ -3727,7 +3740,7 @@
             "release_name": "CMSSW_6_2_X_SLHC_2016-07-31-0000", 
             "RVExceptions": null, 
             "merged_prs": [], 
-            "hlt_tests": "inprogress"
+            "hlt_tests": "found"
         }, 
         {
             "fwlite": [], 
