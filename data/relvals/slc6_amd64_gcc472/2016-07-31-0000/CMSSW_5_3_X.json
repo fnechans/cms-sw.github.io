@@ -1224,6 +1224,28 @@
     },
     {
         "exitcode": 0,
+        "id": "3.0",
+        "name": "ProdQCD_Pt_3000_3500+ProdQCD_Pt_3000_3500+DIGIPROD1+RECOPROD1",
+        "steps": [
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 2
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 3
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.12",
         "name": "RunMinBias2010B+RunMinBias2010B+RECOD",
         "steps": [
@@ -1379,6 +1401,50 @@
     },
     {
         "exitcode": 0,
+        "id": "4.4",
+        "name": "RunMinBias2012A+RunMinBias2012A+HLTD+RECODreHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 625
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.44",
+        "name": "RunElectron2012A+RunElectron2012A+HLTD+RECODreHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 4
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 1910
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.5",
         "name": "RunCosmicsA+RunCosmicsA+RECOCOSD+ALCACOSD",
         "steps": [
@@ -1390,6 +1456,33 @@
             },
             {
                 "status": "NOTRUN"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.53",
+        "name": "RunPhoton2012B+RunPhoton2012B+HLTD+RECODreHLT+HARVESTDreHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 64
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 2612
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -1468,6 +1561,28 @@
     },
     {
         "exitcode": 0,
+        "id": "40.51",
+        "name": "RunHI2010+RunHI2010+REPACKHID+RECOHID11St3",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "42.0",
         "name": "HydjetQ_B8_2760GeV+HydjetQ_B8_2760GeVINPUT+DIGIHI+RECOHI",
         "steps": [
@@ -1528,6 +1643,28 @@
     },
     {
         "exitcode": 0,
+        "id": "108.0",
+        "name": "H165WW2L+H165WW2L+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 143
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "109.0",
         "name": "H200ZZ4L+H200ZZ4L+DIGI+RECO",
         "steps": [
@@ -1545,6 +1682,28 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 209
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "112.0",
+        "name": "QCD_Pt_15_20+QCD_Pt_15_20+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 34
             }
         ]
     },
@@ -1677,6 +1836,28 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 277
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "119.0",
+        "name": "ZTT+ZTTHS+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 45
             }
         ]
     },
