@@ -1206,6 +1206,25 @@
     },
     {
         "exitcode": 0,
+        "id": "134.909",
+        "name": "RunSingleEl2015D+RunSingleEl2015D+HLTDR2_25ns+RECODR2_25nsreHLT+HARVESTDR2",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "134.99601",
         "name": "RunJetHT2015HLHS+RunJetHT2015HLHS+HLTDR2_25ns+RECODR2_25nsreHLT+HARVESTDR2",
         "steps": [
