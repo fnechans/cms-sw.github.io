@@ -1,6 +1,28 @@
 [
     {
         "exitcode": 0,
+        "id": "2.0",
+        "name": "ProdTTbar+ProdTTbar+DIGIPROD1+RECOPROD1",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 18
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 5
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 23
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "3.0",
         "name": "ProdQCD_Pt_3000_3500+ProdQCD_Pt_3000_3500+DIGIPROD1+RECOPROD1",
         "steps": [
@@ -18,6 +40,33 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 25
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.37",
+        "name": "ZMuSkim2011B+ZMuSkim2011B+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 7
+            },
+            {
+                "errors": 453,
+                "status": "PASSED",
+                "warnings": 473
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 12
             }
         ]
     },
@@ -671,6 +720,60 @@
     },
     {
         "exitcode": 0,
+        "id": "9.0",
+        "name": "Higgs200ChargedTaus+Higgs200ChargedTausINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 18
+            },
+            {
+                "errors": 975,
+                "status": "PASSED",
+                "warnings": 866
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "24.0",
+        "name": "TTbarLepton+TTbarLeptonINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 14
+            },
+            {
+                "errors": 805,
+                "status": "PASSED",
+                "warnings": 850
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "25.0",
         "name": "TTbar+TTbarINPUT+DIGI+RECOAlCaCalo+HARVEST+ALCATT",
         "steps": [
@@ -774,6 +877,33 @@
                 "errors": 1143,
                 "status": "PASSED",
                 "warnings": 864
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "38.0",
+        "name": "QCD_FlatPt_15_3000HS+QCD_FlatPt_15_3000HSINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 10
+            },
+            {
+                "errors": 914,
+                "status": "PASSED",
+                "warnings": 854
             },
             {
                 "errors": 3,
@@ -2503,6 +2633,38 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1325.0",
+        "name": "TTbar_13+TTbar_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15+ALCATTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 54
+            },
+            {
+                "errors": 94,
+                "status": "PASSED",
+                "warnings": 21
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 5
             }
         ]
     },
