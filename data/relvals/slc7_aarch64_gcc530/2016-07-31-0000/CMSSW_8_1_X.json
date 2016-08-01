@@ -45,6 +45,38 @@
     },
     {
         "exitcode": 0,
+        "id": "4.29",
+        "name": "RunMinBias2011B+RunMinBias2011B+HLTD+RECODR1reHLT+HARVESTDR1reHLT+SKIMDreHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 6
+            },
+            {
+                "errors": 383,
+                "status": "PASSED",
+                "warnings": 462
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            },
+            {
+                "errors": 16,
+                "status": "PASSED",
+                "warnings": 44
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.37",
         "name": "ZMuSkim2011B+ZMuSkim2011B+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
         "steps": [
@@ -1049,6 +1081,33 @@
     },
     {
         "exitcode": 0,
+        "id": "44.0",
+        "name": "ZpEE_2250_8TeV+ZpEE_2250_8TeVINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 10
+            },
+            {
+                "errors": 546,
+                "status": "PASSED",
+                "warnings": 847
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "108.0",
         "name": "H165WW2L+H165WW2L+DIGI+RECO",
         "steps": [
@@ -1088,6 +1147,28 @@
                 "errors": 92,
                 "status": "PASSED",
                 "warnings": 99
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "113.0",
+        "name": "QCD_Pt_20_30+QCD_Pt_20_30+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 21
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            },
+            {
+                "errors": 53,
+                "status": "PASSED",
+                "warnings": 94
             }
         ]
     },
@@ -3393,6 +3474,28 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "11021.0",
+        "name": "TenMuE_0_200+TenMuE_0_200_pythia8_2023LReco_GenSimFull+DigiFull_2023LReco+RecoFullLocal_2023LReco",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 6
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 12
             }
         ]
     },
