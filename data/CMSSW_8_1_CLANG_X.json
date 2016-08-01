@@ -1270,7 +1270,7 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/8.1.CLANG-mon-11/CMSSW_8_1_CLANG_X_2016-08-01-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1114, 
+                        "num_passed": 1149, 
                         "num_failed": 10
                     }
                 }
@@ -1307,7 +1307,26 @@
             "release_name": "CMSSW_8_1_X", 
             "tests_archs": [], 
             "RVExceptions": null, 
-            "merged_prs": [], 
+            "merged_prs": [
+                {
+                    "hash": "53c32eab839900d661acbffd2c0559c7462475d7", 
+                    "title": "81X HLT July 29th train", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15327", 
+                    "number": "15327", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "cms-tsg-storm"
+                }, 
+                {
+                    "hash": "ffee0c6a4301a72e5cc9148d1501ec6efff4af4a", 
+                    "title": "new BPH MC relvals", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15336", 
+                    "number": "15336", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "fabozzi"
+                }
+            ], 
             "fwlite": []
         }
     ]

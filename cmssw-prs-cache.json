@@ -14349,6 +14349,20 @@
     "title": "Fix checking for duplicate process names", 
     "user_ref": "duplicateProcessException"
   }, 
+  "15327": {
+    "author": "cms-tsg-storm", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "53c32eab839900d661acbffd2c0559c7462475d7", 
+    "title": "81X HLT July 29th train", 
+    "user_ref": "81XHLTJuly29thTrain"
+  }, 
+  "15336": {
+    "author": "fabozzi", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "ffee0c6a4301a72e5cc9148d1501ec6efff4af4a", 
+    "title": "new BPH MC relvals", 
+    "user_ref": "from-CMSSW_8_1_X_newrelvals"
+  }, 
   "1542": {
     "author": "Dr15Jones", 
     "branch": "CMSSW_5_3_X", 
