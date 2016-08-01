@@ -1184,7 +1184,14 @@
             "fwlite": []
         }, 
         {
-            "addons": [], 
+            "addons": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.1.ICC-sun-23/CMSSW_8_1_ICC_X_2016-07-31-2300/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
             "comp_baseline_state": "errors", 
             "builds": [
                 {
@@ -1204,16 +1211,29 @@
             "utests": [
                 {
                     "arch": "slc6_amd64_gcc530", 
-                    "passed": "unknown", 
-                    "file": "['/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.1.ICC-sun-23/CMSSW_8_1_ICC_X_2016-07-31-2300/new/logAnalysis.pkl']", 
-                    "details": {}
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.1.ICC-sun-23/CMSSW_8_1_ICC_X_2016-07-31-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "251"
+                    }
                 }
             ], 
             "cmsdistTags": {
                 "slc6_amd64_gcc530": "ERR/CMSSW_8_1_ICC_X_2016-07-31-2300/slc6_amd64_gcc530"
             }, 
             "igprof": "not-found", 
-            "relvals": [], 
+            "relvals": [
+                {
+                    "done": false, 
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.1.ICC-sun-23/CMSSW_8_1_ICC_X_2016-07-31-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 24, 
+                        "num_failed": 37
+                    }
+                }
+            ], 
             "static_checks": "not-found", 
             "isIB": true, 
             "hlt_tests": "not-found", 
