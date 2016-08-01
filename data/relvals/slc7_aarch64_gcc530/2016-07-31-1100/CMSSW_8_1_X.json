@@ -622,6 +622,28 @@
     },
     {
         "exitcode": 0,
+        "id": "4.6",
+        "name": "MinimumBias2010A+MinimumBias2010A+RECOSKIMALCA+HARVESTDR1",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 542,
+                "status": "PASSED",
+                "warnings": 580
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 17
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.61",
         "name": "RunMinBias2012C+RunMinBias2012C+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
         "steps": [
@@ -1103,6 +1125,60 @@
                 "errors": 543,
                 "status": "PASSED",
                 "warnings": 836
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "17.0",
+        "name": "SingleElectronPt35+SingleElectronPt35INPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 3
+            },
+            {
+                "errors": 200,
+                "status": "PASSED",
+                "warnings": 816
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "19.0",
+        "name": "SingleGammaPt35+SingleGammaPt35INPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 4
+            },
+            {
+                "errors": 200,
+                "status": "PASSED",
+                "warnings": 828
             },
             {
                 "errors": 3,
@@ -1909,13 +1985,19 @@
         "name": "ZTT+ZTTHS+DIGI+RECO",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 6
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 3
             },
             {
-                "status": "PASSED"
+                "errors": 45,
+                "status": "PASSED",
+                "warnings": 92
             }
         ]
     },
@@ -1969,13 +2051,19 @@
         "name": "LM9p+LM9p+DIGI+RECO",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 15
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 8
             },
             {
-                "status": "PASSED"
+                "errors": 55,
+                "status": "PASSED",
+                "warnings": 94
             }
         ]
     },
@@ -1998,6 +2086,33 @@
                 "errors": 145,
                 "status": "PASSED",
                 "warnings": 101
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.0",
+        "name": "MinimumBiasBS+RunMinBias2011B+RECODR1+ALCAPROMPT+ALCAHARVD",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 381,
+                "status": "PASSED",
+                "warnings": 450
+            },
+            {
+                "errors": 88,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 2
             }
         ]
     },
@@ -3631,16 +3746,24 @@
         "name": "RunHI2010+RunHI2010+RECOHID10+RECOHIR10D11+HARVESTDHI",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 300,
+                "status": "PASSED",
+                "warnings": 227
             },
             {
-                "status": "PASSED"
+                "errors": 330,
+                "status": "PASSED",
+                "warnings": 270
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 10
             }
         ]
     },
@@ -3650,13 +3773,19 @@
         "name": "RunHI2011+RunHI2011+RECOHID11+HARVESTDHI",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 2475,
+                "status": "PASSED",
+                "warnings": 359
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 10
             }
         ]
     },
@@ -4111,6 +4240,33 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 25
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1320.0",
+        "name": "SingleMuPt10_UP15+SingleMuPt10_UP15INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 8
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 3
             },
             {
                 "errors": 0,
@@ -4589,16 +4745,24 @@
         "name": "RSKKGluon_m3000GeV_13+RSKKGluon_m3000GeV_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 61
             },
             {
-                "status": "PASSED"
+                "errors": 95,
+                "status": "PASSED",
+                "warnings": 19
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -4927,16 +5091,24 @@
         "name": "ZEE_13+ZEE_13TeV_TuneCUETP8M1_2017_GenSimFullINPUT+DigiFull_2017+RecoFull_2017+HARVESTFull_2017",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 22
             },
             {
-                "status": "PASSED"
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 26
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
