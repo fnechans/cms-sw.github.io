@@ -16533,8 +16533,8 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/8.1.CLANG-mon-11/CMSSW_8_1_CLANG_X_2016-08-01-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1385, 
-                            "num_failed": 12
+                            "num_passed": 1410, 
+                            "num_failed": 13
                         }
                     }
                 ], 
@@ -26961,7 +26961,7 @@
                 ], 
                 "RVExceptions": null, 
                 "merged_prs": [], 
-                "hlt_tests": "inprogress"
+                "hlt_tests": "found"
             }, 
             {
                 "fwlite": [], 
