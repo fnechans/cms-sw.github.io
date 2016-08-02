@@ -14300,6 +14300,13 @@
     "title": "fix: eval_auto_bounds returns good value for pt==pt_low", 
     "user_ref": "btag-fix-auto_eval_bounds"
   }, 
+  "15284": {
+    "author": "bsunanda", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "b2f624381942f5ac92569b362b8e746ad9c3c370", 
+    "title": "bsunanda:Run2-alca53 Change output part for HcalIsolatedBunchFilter", 
+    "user_ref": "Run2-alca53"
+  }, 
   "15290": {
     "author": "mmusich", 
     "branch": "CMSSW_8_1_X", 
@@ -14349,12 +14356,26 @@
     "title": "Fix checking for duplicate process names", 
     "user_ref": "duplicateProcessException"
   }, 
+  "15322": {
+    "author": "kpedro88", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "d078e3933368d57b977457a5b36b5d08a49dff76", 
+    "title": "New pulse shape for HE 2017 SiPM", 
+    "user_ref": "Phase1-HE4"
+  }, 
   "15327": {
     "author": "cms-tsg-storm", 
     "branch": "CMSSW_8_1_X", 
     "hash": "53c32eab839900d661acbffd2c0559c7462475d7", 
     "title": "81X HLT July 29th train", 
     "user_ref": "81XHLTJuly29thTrain"
+  }, 
+  "15330": {
+    "author": "barvic", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "88d4f1ee1688249f6f22b310edeb40045c352111", 
+    "title": "81X - Added CSC Unpacker check for FED/DDU<->chamber mapping inconsistencies", 
+    "user_ref": "csc_unpacker_fix_for_mapping_inconsistencies_81X"
   }, 
   "15336": {
     "author": "fabozzi", 
