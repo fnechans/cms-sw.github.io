@@ -450,6 +450,60 @@
     },
     {
         "exitcode": 0,
+        "id": "4.24",
+        "name": "WMuSkim2011A+WMuSkim2011A+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 7
+            },
+            {
+                "errors": 306,
+                "status": "PASSED",
+                "warnings": 452
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 10
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.25",
+        "name": "WElSkim2011A+WElSkim2011A+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 32
+            },
+            {
+                "errors": 314,
+                "status": "PASSED",
+                "warnings": 484
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 12
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.26",
         "name": "ZMuSkim2011A+ZMuSkim2011A+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
         "steps": [
@@ -1459,6 +1513,60 @@
     },
     {
         "exitcode": 0,
+        "id": "20.0",
+        "name": "SingleMuPt10+SingleMuPt10INPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 10
+            },
+            {
+                "errors": 200,
+                "status": "PASSED",
+                "warnings": 838
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "21.0",
+        "name": "SingleMuPt100+SingleMuPt100INPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 18
+            },
+            {
+                "errors": 200,
+                "status": "PASSED",
+                "warnings": 820
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "22.0",
         "name": "SingleMuPt1000+SingleMuPt1000INPUT+DIGI+RECO+HARVEST",
         "steps": [
@@ -2224,6 +2332,28 @@
     },
     {
         "exitcode": 0,
+        "id": "119.0",
+        "name": "ZTT+ZTTHS+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 5
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 6
+            },
+            {
+                "errors": 45,
+                "status": "PASSED",
+                "warnings": 91
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "121.0",
         "name": "TTbar+TTbar2HS+DIGI+RECO",
         "steps": [
@@ -2263,6 +2393,28 @@
                 "errors": 51,
                 "status": "PASSED",
                 "warnings": 107
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "132.0",
+        "name": "LM9p+LM9p+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 13
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 10
+            },
+            {
+                "errors": 55,
+                "status": "PASSED",
+                "warnings": 92
             }
         ]
     },
