@@ -7308,12 +7308,12 @@
             "dqm_tests": "found", 
             "relvals": [
                 {
-                    "done": false, 
+                    "done": true, 
                     "arch": "slc6_amd64_gcc530", 
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/8.1-mon-23/CMSSW_8_1_X_2016-08-01-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1419, 
+                        "num_passed": 1457, 
                         "num_failed": 6
                     }
                 }, 
@@ -7323,7 +7323,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/mon/8.1-mon-23/CMSSW_8_1_X_2016-08-01-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 154, 
+                        "num_passed": 186, 
                         "num_failed": 0
                     }
                 }, 
@@ -7338,22 +7338,22 @@
                     }
                 }, 
                 {
-                    "done": false, 
+                    "done": true, 
                     "arch": "slc6_amd64_gcc493", 
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc493/www/mon/8.1-mon-23/CMSSW_8_1_X_2016-08-01-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1451, 
+                        "num_passed": 1461, 
                         "num_failed": 5
                     }
                 }, 
                 {
-                    "done": false, 
+                    "done": true, 
                     "arch": "slc6_amd64_gcc600", 
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc600/www/mon/8.1-mon-23/CMSSW_8_1_X_2016-08-01-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1453, 
+                        "num_passed": 1467, 
                         "num_failed": 3
                     }
                 }
