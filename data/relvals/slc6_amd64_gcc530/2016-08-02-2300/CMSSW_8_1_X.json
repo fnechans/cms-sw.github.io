@@ -54,16 +54,24 @@
         "name": "ZMuSkim2012D+ZMuSkim2012D+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "FAILED"
+                "errors": 0,
+                "status": "FAILED",
+                "warnings": 0
             },
             {
-                "status": "NOTRUN"
+                "errors": -1,
+                "status": "NOTRUN",
+                "warnings": -1
             },
             {
-                "status": "NOTRUN"
+                "errors": -1,
+                "status": "NOTRUN",
+                "warnings": -1
             }
         ]
     },
@@ -73,16 +81,24 @@
         "name": "WElSkim2012D+WElSkim2012D+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 75
             },
             {
-                "status": "FAILED"
+                "errors": 4,
+                "status": "FAILED",
+                "warnings": 6
             },
             {
-                "status": "NOTRUN"
+                "errors": -1,
+                "status": "NOTRUN",
+                "warnings": -1
             }
         ]
     },
@@ -114,19 +130,29 @@
         "name": "RunCosmics2011A+RunCosmics2011A+RECOCOSD+ALCACOSD+SKIMCOSD+HARVESTDC",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 4,
+                "status": "PASSED",
+                "warnings": 971
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 39
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 107
             },
             {
-                "status": "PASSED"
+                "errors": 4,
+                "status": "PASSED",
+                "warnings": 12
             }
         ]
     },
@@ -213,20 +239,55 @@
     },
     {
         "exitcode": 0,
+        "id": "4.41",
+        "name": "RunTau2012A+RunTau2012A+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 89
+            },
+            {
+                "errors": 507,
+                "status": "PASSED",
+                "warnings": 1349
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.42",
         "name": "RunMET2012A+RunMET2012A+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 63
             },
             {
-                "status": "PASSED"
+                "errors": 573,
+                "status": "PASSED",
+                "warnings": 1668
             },
             {
-                "status": "PASSED"
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -263,16 +324,24 @@
         "name": "RunMinBias2012B+RunMinBias2012B+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 40
             },
             {
-                "status": "PASSED"
+                "errors": 389,
+                "status": "PASSED",
+                "warnings": 1028
             },
             {
-                "status": "PASSED"
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -525,10 +594,14 @@
         "name": "TTbar+TTbarFS+HARVESTFS",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 709
             },
             {
-                "status": "PASSED"
+                "errors": 7,
+                "status": "PASSED",
+                "warnings": 5
             }
         ]
     },
@@ -538,10 +611,14 @@
         "name": "SingleMuPt10+SingleMuPt10FS+HARVESTFS",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 322
             },
             {
-                "status": "PASSED"
+                "errors": 7,
+                "status": "PASSED",
+                "warnings": 5
             }
         ]
     },
@@ -551,10 +628,14 @@
         "name": "SingleMuPt100+SingleMuPt100FS+HARVESTFS",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 264
             },
             {
-                "status": "PASSED"
+                "errors": 7,
+                "status": "PASSED",
+                "warnings": 5
             }
         ]
     },
@@ -564,10 +645,14 @@
         "name": "ZEE+ZEEFS+HARVESTFS",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 299
             },
             {
-                "status": "PASSED"
+                "errors": 7,
+                "status": "PASSED",
+                "warnings": 5
             }
         ]
     },
@@ -577,10 +662,14 @@
         "name": "ZTT+ZTTFS+HARVESTFS",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 309
             },
             {
-                "status": "PASSED"
+                "errors": 7,
+                "status": "PASSED",
+                "warnings": 5
             }
         ]
     },
@@ -590,10 +679,14 @@
         "name": "QCD_FlatPt_15_3000+QCDFlatPt153000FS+HARVESTFS",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 508
             },
             {
-                "status": "PASSED"
+                "errors": 7,
+                "status": "PASSED",
+                "warnings": 5
             }
         ]
     },
@@ -603,10 +696,14 @@
         "name": "H130GGgluonfusion+H130GGgluonfusionFS+HARVESTFS",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 195
             },
             {
-                "status": "PASSED"
+                "errors": 7,
+                "status": "PASSED",
+                "warnings": 5
             }
         ]
     },
@@ -643,19 +740,29 @@
         "name": "Cosmics+Cosmics+DIGICOS+RECOCOS+ALCACOS+HARVESTCOS",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 3
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 12
             }
         ]
     },
@@ -665,19 +772,29 @@
         "name": "CosmicsSPLoose+CosmicsSPLoose+DIGICOS+RECOCOS+ALCACOS+HARVESTCOS",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 3
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 12
             }
         ]
     },
@@ -850,6 +967,38 @@
     },
     {
         "exitcode": 0,
+        "id": "25.0",
+        "name": "TTbar+TTbarINPUT+DIGI+RECOAlCaCalo+HARVEST+ALCATT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 210
+            },
+            {
+                "errors": 1019,
+                "status": "PASSED",
+                "warnings": 1483
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 136
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "27.0",
         "name": "WM+WMINPUT+DIGI+RECO+HARVEST",
         "steps": [
@@ -1016,7 +1165,9 @@
         "name": "SingleElectronE120EHCAL+SingleElectronE120EHCAL",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 84
             }
         ]
     },
@@ -1026,7 +1177,9 @@
         "name": "SinglePiE50HCAL+SinglePiE50HCAL",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 106
             }
         ]
     },
@@ -1036,13 +1189,19 @@
         "name": "InclusiveppMuX+InclusiveppMuX+DIGI+RECO",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 8
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1
             }
         ]
     },
@@ -1052,13 +1211,19 @@
         "name": "bJpsiX+bJpsiX+DIGI+RECO",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 7
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1
             }
         ]
     },
@@ -1090,13 +1255,19 @@
         "name": "H200ZZ4L+H200ZZ4L+DIGI+RECO",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 95
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 16
             },
             {
-                "status": "PASSED"
+                "errors": 84,
+                "status": "PASSED",
+                "warnings": 361
             }
         ]
     },
@@ -1106,13 +1277,19 @@
         "name": "SingleTauPt50Pythia+SingleTauPt50Pythia+DIGI+RECO",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 27
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 81
             },
             {
-                "status": "PASSED"
+                "errors": 20,
+                "status": "PASSED",
+                "warnings": 679
             }
         ]
     },
@@ -1122,13 +1299,19 @@
         "name": "SinglePi0E10+SinglePi0E10+DIGI+RECO",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 19
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 14
             },
             {
-                "status": "PASSED"
+                "errors": 20,
+                "status": "PASSED",
+                "warnings": 341
             }
         ]
     },
@@ -1138,13 +1321,19 @@
         "name": "TTbar+TTbar2HS+DIGI+RECO",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 95
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 131
             },
             {
-                "status": "PASSED"
+                "errors": 98,
+                "status": "PASSED",
+                "warnings": 427
             }
         ]
     },
@@ -1154,7 +1343,9 @@
         "name": "QCD_Pt_80_120+QCD_Pt_80_120FS",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 656
             }
         ]
     },
@@ -1164,7 +1355,9 @@
         "name": "QCD_Pt_3000_3500+QCD_Pt_3000_3500FS",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 809
             }
         ]
     },
@@ -1174,7 +1367,9 @@
         "name": "SingleMuPt1+SingleMuPt1FS",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 67
             }
         ]
     },
@@ -1184,7 +1379,9 @@
         "name": "SinglePiPt1+SinglePiPt1FS",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 121
             }
         ]
     },
@@ -1194,7 +1391,9 @@
         "name": "ZTT+ZTTFS",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 55
             }
         ]
     },
@@ -1204,7 +1403,9 @@
         "name": "SinglePiPt10+SinglePiPt10FS",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 226
             }
         ]
     },
@@ -1214,7 +1415,9 @@
         "name": "SinglePiPt100+SinglePiPt100FS",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 107
             }
         ]
     },
@@ -1224,7 +1427,9 @@
         "name": "SingleGammaFlatPt10To10+SingleGammaFlatPt10To10FS",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 403
             }
         ]
     },
@@ -1234,13 +1439,19 @@
         "name": "SingleMuPt1HS+SingleMuPt1HS+DIGI+RECO",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 40
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 8
             },
             {
-                "status": "PASSED"
+                "errors": 20,
+                "status": "PASSED",
+                "warnings": 187
             }
         ]
     },
@@ -1250,13 +1461,19 @@
         "name": "SinglePiPt1+SinglePiPt1+DIGI+RECO",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 37
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 8
             },
             {
-                "status": "PASSED"
+                "errors": 20,
+                "status": "PASSED",
+                "warnings": 254
             }
         ]
     },
@@ -1266,13 +1483,19 @@
         "name": "SinglePiPt10+SinglePiPt10+DIGI+RECO",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 37
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 14
             },
             {
-                "status": "PASSED"
+                "errors": 20,
+                "status": "PASSED",
+                "warnings": 146
             }
         ]
     },
@@ -1385,16 +1608,24 @@
         "name": "RunJetHT2015B+RunJetHT2015B+HLTDR2_50ns+RECODR2_50nsreHLT+HARVESTDR2",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 112
             },
             {
-                "status": "PASSED"
+                "errors": 879,
+                "status": "PASSED",
+                "warnings": 2687
             },
             {
-                "status": "PASSED"
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -1485,16 +1716,24 @@
         "name": "RunSinglePh2015B+RunSinglePh2015B+HLTDR2_50ns+RECODR2_50nsreHLT+HARVESTDR2",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 139
             },
             {
-                "status": "PASSED"
+                "errors": 769,
+                "status": "PASSED",
+                "warnings": 1034
             },
             {
-                "status": "PASSED"
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 10
             }
         ]
     },
@@ -1666,16 +1905,51 @@
         "name": "RunCosmics2015C+RunCosmics2015C+RECOCOSDRUN2+ALCACOSDRUN2+HARVESTDCRUN2",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 1033
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 46
             },
             {
-                "status": "PASSED"
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 12
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.902",
+        "name": "RunDoubleEG2015D+RunDoubleEG2015D+HLTDR2_25ns+RECODR2_25nsreHLT+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 161
+            },
+            {
+                "errors": 800,
+                "status": "PASSED",
+                "warnings": 1782
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -1698,6 +1972,60 @@
                 "errors": 1006,
                 "status": "PASSED",
                 "warnings": 2278
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.905",
+        "name": "RunMET2015D+RunMET2015D+HLTDR2_25ns+RECODR2_25nsreHLT+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 132
+            },
+            {
+                "errors": 733,
+                "status": "PASSED",
+                "warnings": 1717
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.906",
+        "name": "RunMuonEG2015D+RunMuonEG2015D+HLTDR2_25ns+RECODR2_25nsreHLT+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 122
+            },
+            {
+                "errors": 836,
+                "status": "PASSED",
+                "warnings": 1412
             },
             {
                 "errors": 1,
@@ -1757,6 +2085,33 @@
                 "errors": 1,
                 "status": "PASSED",
                 "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.909",
+        "name": "RunSingleEl2015D+RunSingleEl2015D+HLTDR2_25ns+RECODR2_25nsreHLT+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 89
+            },
+            {
+                "errors": 716,
+                "status": "PASSED",
+                "warnings": 1238
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -1952,7 +2307,9 @@
         "name": "MinBiasFS_13_ForMixing+MinBiasFS_13_ForMixing",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 19
             }
         ]
     },
@@ -1984,16 +2341,24 @@
         "name": "RunHLTPhy2016B+RunHLTPhy2016B+HLTDR2_2016+RECODR2_2016reHLT+HARVESTDR2",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 768
             },
             {
-                "status": "PASSED"
+                "errors": 490,
+                "status": "PASSED",
+                "warnings": 1644
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -2030,16 +2395,24 @@
         "name": "RunDoubleMuon2016B+RunDoubleMuon2016B+HLTDR2_2016+RECODR2_2016reHLT+HARVESTDR2",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 608
             },
             {
-                "status": "PASSED"
+                "errors": 518,
+                "status": "PASSED",
+                "warnings": 1405
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -2076,16 +2449,24 @@
         "name": "RunMET2016B+RunMET2016B+HLTDR2_2016+RECODR2_2016reHLT+HARVESTDR2",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 4,
+                "status": "PASSED",
+                "warnings": 1031
             },
             {
-                "status": "PASSED"
+                "errors": 493,
+                "status": "PASSED",
+                "warnings": 1451
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -2113,6 +2494,33 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "136.727",
+        "name": "RunDoubleEGPrpt2016B+RunDoubleEGPrpt2016B+HLTDR2_2016+RECODR2_2016reHLT+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 8,
+                "status": "PASSED",
+                "warnings": 1099
+            },
+            {
+                "errors": 418,
+                "status": "PASSED",
+                "warnings": 1499
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 10
             }
         ]
     },
@@ -2176,16 +2584,24 @@
         "name": "RunSinglePh2016B+RunSinglePh2016B+HLTDR2_2016+RECODR2_2016reHLT+HARVESTDR2",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 686
             },
             {
-                "status": "PASSED"
+                "errors": 499,
+                "status": "PASSED",
+                "warnings": 2053
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -2276,16 +2692,24 @@
         "name": "HydjetQ_MinBias_5020GeV+HydjetQ_MinBias_5020GeVINPUT+DIGIHI+RECOHI+HARVESTHI",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 7,
+                "status": "PASSED",
+                "warnings": 144
             },
             {
-                "status": "PASSED"
+                "errors": 691,
+                "status": "PASSED",
+                "warnings": 236
             },
             {
-                "status": "PASSED"
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 10
             }
         ]
     },
@@ -2430,16 +2854,24 @@
         "name": "Pyquen_GammaJet_pt20_2760GeV+Pyquen_GammaJet_pt20_2760GeV+DIGIHIMIX+RECOHIMIX+HARVESTHI",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 71
             },
             {
-                "status": "PASSED"
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 1
             },
             {
-                "status": "PASSED"
+                "errors": 483,
+                "status": "PASSED",
+                "warnings": 4
             },
             {
-                "status": "PASSED"
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 10
             }
         ]
     },
@@ -2476,10 +2908,14 @@
         "name": "MinBias_13TeV_pythia8+MinBias_13TeV_pythia8+HARVESTGEN",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 35
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2489,10 +2925,14 @@
         "name": "QCD_Pt-30_13TeV_pythia8+QCD_Pt-30_13TeV_pythia8+HARVESTGEN",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 40
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2502,10 +2942,14 @@
         "name": "DYToLL_M-50_13TeV_pythia8+DYToLL_M-50_13TeV_pythia8+HARVESTGEN",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 26
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2515,10 +2959,14 @@
         "name": "WToLNu_13TeV_pythia8+WToLNu_13TeV_pythia8+HARVESTGEN",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 20
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2528,10 +2976,14 @@
         "name": "SoftQCDDiffractive_13TeV_pythia8+SoftQCDDiffractive_13TeV_pythia8+HARVESTGEN",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 59
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2541,10 +2993,14 @@
         "name": "SoftQCDnonDiffractive_13TeV_pythia8+SoftQCDnonDiffractive_13TeV_pythia8+HARVESTGEN",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 74
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2554,10 +3010,14 @@
         "name": "SoftQCDelastic_13TeV_pythia8+SoftQCDelastic_13TeV_pythia8+HARVESTGEN",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2567,10 +3027,14 @@
         "name": "SoftQCDinelastic_13TeV_pythia8+SoftQCDinelastic_13TeV_pythia8+HARVESTGEN",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 32
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2602,13 +3066,19 @@
         "name": "GGToHgg_NLO_Pow_13TeV_py8+GGToH_Pow_LHE_13TeV+Hadronizer_TuneCUETP8M1_13TeV_Hgg_powhegEmissionVeto_pythia8+HARVESTGEN2",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 11
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 45
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2618,13 +3088,19 @@
         "name": "VHToHtt_NLO_Pow_13TeV_py8_taupinu+VHToH_Pow_LHE_13TeV+Hadronizer_TuneCUETP8M1_13TeV_Httpinu_powhegEmissionVeto_pythia8+HARVESTGEN2",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 15
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 33
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2634,13 +3110,19 @@
         "name": "TTbar012Jets_NLO_Mad_13TeV_py8_Evt+TTbar012Jets_5f_NLO_FXFX_Madgraph_LHE_13TeV+Hadronizer_TuneCUETP8M1_13TeV_aMCatNLO_FXFX_5f_max2j_max1p_LHE_pythia8_evtgen+HARVESTGEN2",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 13
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 54
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2650,13 +3132,19 @@
         "name": "VHToHtt_NLO_Pow_13TeV_py8_Ta_taupinu+VHToH_Pow_LHE_13TeV+Hadronizer_TuneCUETP8M1_13TeV_Httpinu_powhegEmissionVeto_pythia8_tauola+HARVESTGEN2",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 15
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 31
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2688,13 +3176,19 @@
         "name": "VHToHtt_NLO_Pow_13TeV_py8_Ta_taurhonu+VHToH_Pow_LHE_13TeV+Hadronizer_TuneCUETP8M1_13TeV_Httrhonu_powhegEmissionVeto_pythia8_tauola+HARVESTGEN2",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 16
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 54
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2704,10 +3198,14 @@
         "name": "ReggeGribovPartonMC_EposLHC_5TeV_pPb+ReggeGribovPartonMC_EposLHC_5TeV_pPb+HARVESTGEN",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 10
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2717,10 +3215,14 @@
         "name": "BuToKstarJPsiToMuMu_forSTEAM_13TeV_TuneCUETP8M1+BuToKstarJPsiToMuMu_forSTEAM_13TeV_TuneCUETP8M1+HARVESTGEN",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 7
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2730,10 +3232,14 @@
         "name": "BsToMuMu_forSTEAM_13TeV_TuneCUETP8M1+BsToMuMu_forSTEAM_13TeV_TuneCUETP8M1+HARVESTGEN",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 36
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2743,13 +3249,19 @@
         "name": "TTbar012Jets_NLO_Mad_13TeV_py8+TTbar012Jets_5f_NLO_FXFX_Madgraph_LHE_13TeV+Hadronizer_TuneCUETP8M1_13TeV_aMCatNLO_FXFX_5f_max2j_max1p_LHE_pythia8+HARVESTGEN2",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 15
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 28
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2759,13 +3271,19 @@
         "name": "VHToHtt_NLO_Pow_13TeV_py8+VHToH_Pow_LHE_13TeV+Hadronizer_TuneCUETP8M1_13TeV_Htt_powhegEmissionVeto_pythia8+HARVESTGEN2",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 16
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 60
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2775,13 +3293,19 @@
         "name": "DYTollJets_NLO_Mad_13TeV_py8+DYToll012Jets_5f_NLO_FXFX_Madgraph_LHE_13TeV+Hadronizer_TuneCUETP8M1_13TeV_aMCatNLO_FXFX_5f_max2j_max0p_LHE_pythia8+HARVESTGEN2",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 7
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 2
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2791,13 +3315,19 @@
         "name": "TTbar_NLO_Pow_13TeV_py8+TTbar_Pow_LHE_13TeV+Hadronizer_TuneCUETP8M1_13TeV_powhegEmissionVeto2p_pythia8+HARVESTGEN2",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 12
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 34
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2807,10 +3337,14 @@
         "name": "ZprimeToll_M3000_13TeV_pythia8+ZprimeToll_M3000_13TeV_pythia8+HARVESTGEN",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 24
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2820,10 +3354,14 @@
         "name": "WprimeTolNu_M3000_13TeV_pythia8+WprimeTolNu_M3000_13TeV_pythia8+HARVESTGEN",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 39
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2833,13 +3371,19 @@
         "name": "BulkG_ZZ_2L2Q_M1200_narrow_13TeV_pythia8+BulkG_M1200_narrow_2L2Q_LHE_13TeV+Hadronizer_TuneCUETP8M1_Mad_pythia8+HARVESTGEN2",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 17
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 15
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2903,13 +3447,46 @@
         "name": "ProdQCD_Pt_3000_3500_13+ProdQCD_Pt_3000_3500_13+DIGIUP15PROD1+RECOPRODUP15",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 50
             },
             {
-                "status": "PASSED"
+                "errors": 10,
+                "status": "PASSED",
+                "warnings": 467
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 70
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1313.0",
+        "name": "QCD_Pt_3000_3500_13+QCD_Pt_3000_3500_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 12,
+                "status": "PASSED",
+                "warnings": 484
+            },
+            {
+                "errors": 102,
+                "status": "PASSED",
+                "warnings": 141
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -3023,6 +3600,33 @@
     },
     {
         "exitcode": 0,
+        "id": "1337.0",
+        "name": "SMS-T1tttt_mGl-1500_mLSP-100_13+SMS-T1tttt_mGl-1500_mLSP-100_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 1011
+            },
+            {
+                "errors": 248,
+                "status": "PASSED",
+                "warnings": 347
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "1340.0",
         "name": "PhiToMuMu_13+PhiToMuMu_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
         "steps": [
@@ -3050,20 +3654,55 @@
     },
     {
         "exitcode": 0,
+        "id": "1349.0",
+        "name": "BsToMuMu_13+BsToMuMu_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 415
+            },
+            {
+                "errors": 39,
+                "status": "PASSED",
+                "warnings": 268
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "1363.0",
         "name": "VBFHToBB_M125_Pow_py8_Evt_13+VBFHToBB_M125_Pow_py8_Evt_13+DIGIUP15+RECOUP15+HARVESTUP15",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 12
             },
             {
-                "status": "PASSED"
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 97
             },
             {
-                "status": "PASSED"
+                "errors": 65,
+                "status": "PASSED",
+                "warnings": 96
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -3248,6 +3887,60 @@
     },
     {
         "exitcode": 0,
+        "id": "10224.0",
+        "name": "TTbar_13+TTbar_13TeV_TuneCUETP8M1_2017PU_GenSimFullINPUT+DigiFullPU_2017PU+RecoFullPU_2017PU+HARVESTFullPU_2017PU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 315
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 1004
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "10225.0",
+        "name": "ZEE_13+ZEE_13TeV_TuneCUETP8M1_2017PU_GenSimFullINPUT+DigiFullPU_2017PU+RecoFullPU_2017PU+HARVESTFullPU_2017PU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 94
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 1110
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "10626.0",
         "name": "QCD_Pt_600_800_13+QCD_Pt_600_800_13TeV_TuneCUETP8M1_2023tilted_GenSimFull+DigiFull_2023tilted+RecoFullGlobal_2023tilted+HARVESTFullGlobal_2023tilted",
         "steps": [
@@ -3291,7 +3984,9 @@
         "name": "QCD_Pt_600_800_13+QCD_Pt_600_800_13TeV_TuneCUETP8M1_2023sim_GenSimFull",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 94
             }
         ]
     },
@@ -3341,6 +4036,28 @@
     },
     {
         "exitcode": 0,
+        "id": "11026.0",
+        "name": "QCD_Pt_600_800_13+QCD_Pt_600_800_13TeV_TuneCUETP8M1_2023LReco_GenSimFull+DigiFull_2023LReco+RecoFullLocal_2023LReco",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 121
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 108
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 54
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "11226.0",
         "name": "QCD_Pt_600_800_13+QCD_Pt_600_800_13TeV_TuneCUETP8M1_2023GReco_GenSimFull+DigiFull_2023GReco+RecoFullGlobal_2023GReco+HARVESTFullGlobal_2023GReco",
         "steps": [
@@ -3372,16 +4089,24 @@
         "name": "ZEE_13+ZEE_13INPUT+DIGIUP15_PU25+RECOUP15_PU25+HARVESTUP15_PU25",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 607
             },
             {
-                "status": "PASSED"
+                "errors": 50,
+                "status": "PASSED",
+                "warnings": 880
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -3499,16 +4224,24 @@
         "name": "ZMM_13+ZMM_13INPUT+DIGIUP15_PU25+RECOUP15_PU25+HARVESTUP15_PU25",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 948
             },
             {
-                "status": "PASSED"
+                "errors": 66,
+                "status": "PASSED",
+                "warnings": 861
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -3518,16 +4251,24 @@
         "name": "NuGun_UP15+NuGun_UP15INPUT+DIGIUP15_PU25+RECOUP15_PU25+HARVESTUP15_PU25",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 598
             },
             {
-                "status": "PASSED"
+                "errors": 60,
+                "status": "PASSED",
+                "warnings": 924
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -3550,6 +4291,114 @@
                 "errors": 229,
                 "status": "PASSED",
                 "warnings": 371
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "25209.0",
+        "name": "QCD_FlatPt_15_3000HS_13+QCD_FlatPt_15_3000HS_13INPUT+DIGIUP15_PU25+RECOUP15_PU25+HARVESTUP15_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 1655
+            },
+            {
+                "errors": 97,
+                "status": "PASSED",
+                "warnings": 1431
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "25211.0",
+        "name": "GluGluHToZZTo4L_M125_Pow_py8_Evt_13+GluGluHToZZTo4L_M125_Pow_py8_Evt_13+DIGIUP15_PU25+RECOUP15_PU25+HARVESTUP15_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 24
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 1679
+            },
+            {
+                "errors": 62,
+                "status": "PASSED",
+                "warnings": 1427
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "25212.0",
+        "name": "VBFHToZZTo4Nu_M125_Pow_py8_Evt_13+VBFHToZZTo4Nu_M125_Pow_py8_Evt_13+DIGIUP15_PU25+RECOUP15_PU25+HARVESTUP15_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 47
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 1342
+            },
+            {
+                "errors": 54,
+                "status": "PASSED",
+                "warnings": 1157
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "25213.0",
+        "name": "VBFHToBB_M125_Pow_py8_Evt_13+VBFHToBB_M125_Pow_py8_Evt_13+DIGIUP15_PU25+RECOUP15_PU25+HARVESTUP15_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 21
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 2501
+            },
+            {
+                "errors": 58,
+                "status": "PASSED",
+                "warnings": 2030
             },
             {
                 "errors": 0,
@@ -3851,16 +4700,24 @@
         "name": "ZEE_13+ZEE_13INPUT+DIGIPRMXUP15_PU25+RECOPRMXUP15_PU25+HARVESTUP15_PU25",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 3350
             },
             {
-                "status": "PASSED"
+                "errors": 73,
+                "status": "PASSED",
+                "warnings": 1023
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -3870,16 +4727,24 @@
         "name": "TTbar_13+TTbar_13INPUT+DIGIPRMXUP15_PU25+RECOPRMXUP15_PU25+HARVESTUP15_PU25",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 3382
             },
             {
-                "status": "PASSED"
+                "errors": 86,
+                "status": "PASSED",
+                "warnings": 1233
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -3889,16 +4754,24 @@
         "name": "H125GGgluonfusion_13+H125GGgluonfusion_13INPUT+DIGIPRMXUP15_PU25+RECOPRMXUP15_PU25+HARVESTUP15_PU25",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 4,
+                "status": "PASSED",
+                "warnings": 5448
             },
             {
-                "status": "PASSED"
+                "errors": 52,
+                "status": "PASSED",
+                "warnings": 787
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -3908,16 +4781,24 @@
         "name": "QQH1352T_13+QQH1352T_13INPUT+DIGIPRMXUP15_PU25+RECOPRMXUP15_PU25+HARVESTUP15_PU25",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 4482
             },
             {
-                "status": "PASSED"
+                "errors": 62,
+                "status": "PASSED",
+                "warnings": 703
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -3927,16 +4808,24 @@
         "name": "ZTT_13+ZTT_13INPUT+DIGIPRMXUP15_PU25+RECOPRMXUP15_PU25+HARVESTUP15_PU25",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 5865
             },
             {
-                "status": "PASSED"
+                "errors": 52,
+                "status": "PASSED",
+                "warnings": 1061
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -3946,16 +4835,24 @@
         "name": "ZMM_13+ZMM_13INPUT+DIGIPRMXUP15_PU25+RECOPRMXUP15_PU25+HARVESTUP15_PU25",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 3689
             },
             {
-                "status": "PASSED"
+                "errors": 54,
+                "status": "PASSED",
+                "warnings": 687
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
@@ -3965,16 +4862,24 @@
         "name": "NuGun_UP15+NuGun_UP15INPUT+DIGIPRMXUP15_PU25+RECOPRMXUP15_PU25+HARVESTUP15_PU25",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 2414
             },
             {
-                "status": "PASSED"
+                "errors": 46,
+                "status": "PASSED",
+                "warnings": 499
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
