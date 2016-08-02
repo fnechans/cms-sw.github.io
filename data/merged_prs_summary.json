@@ -27758,7 +27758,8 @@
                 "cmsdistTags": {
                     "slc6_amd64_gcc493": "IB/CMSSW_8_1_X_2016-07-31-0000/slc6_amd64_gcc493", 
                     "slc6_amd64_gcc530": "IB/CMSSW_8_1_X_2016-07-31-0000/slc6_amd64_gcc530", 
-                    "slc6_amd64_gcc600": "IB/CMSSW_8_1_X_2016-07-31-0000/slc6_amd64_gcc600"
+                    "slc6_amd64_gcc600": "IB/CMSSW_8_1_X_2016-07-31-0000/slc6_amd64_gcc600", 
+                    "slc7_amd64_gcc530": "IB/CMSSW_8_1_X_2016-07-31-0000/slc7_amd64_gcc530"
                 }, 
                 "addons": [], 
                 "comp_baseline_state": "ok", 
@@ -27767,6 +27768,12 @@
                         "arch": "slc6_amd64_gcc530", 
                         "passed": "passed", 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/8.1-tue-23/CMSSW_8_1_X_2016-08-02-2300/new/logAnalysis.pkl", 
+                        "details": {}
+                    }, 
+                    {
+                        "arch": "slc7_amd64_gcc530", 
+                        "passed": "passed", 
+                        "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/tue/8.1-tue-23/CMSSW_8_1_X_2016-08-02-2300/new/logAnalysis.pkl", 
                         "details": {}
                     }, 
                     {
@@ -27795,6 +27802,12 @@
                         "details": {}
                     }, 
                     {
+                        "arch": "slc7_amd64_gcc530", 
+                        "passed": "unknown", 
+                        "file": "['/data/sdt/buildlogs/slc7_amd64_gcc530/www/tue/8.1-tue-23/CMSSW_8_1_X_2016-08-02-2300/new/logAnalysis.pkl']", 
+                        "details": {}
+                    }, 
+                    {
                         "arch": "slc6_amd64_gcc493", 
                         "passed": "unknown", 
                         "file": "['/data/sdt/buildlogs/slc6_amd64_gcc493/www/tue/8.1-tue-23/CMSSW_8_1_X_2016-08-02-2300/new/logAnalysis.pkl']", 
@@ -27818,7 +27831,8 @@
                 "tests_archs": [
                     "slc6_amd64_gcc493", 
                     "slc6_amd64_gcc530", 
-                    "slc6_amd64_gcc600"
+                    "slc6_amd64_gcc600", 
+                    "slc7_amd64_gcc530"
                 ], 
                 "RVExceptions": null, 
                 "merged_prs": [
