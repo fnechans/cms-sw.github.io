@@ -1670,7 +1670,7 @@
                     "details": {}
                 }
             ], 
-            "comp_baseline_state": "errors", 
+            "comp_baseline_state": "ok", 
             "builds": [
                 {
                     "arch": "slc6_amd64_gcc481", 
@@ -1683,7 +1683,7 @@
             ], 
             "valgrind": "not-found", 
             "compared_tags": "CMSSW_7_1_24-->CMSSW_7_1_X_2016-07-24-0000", 
-            "dqm_tests": "found", 
+            "dqm_tests": "inprogress", 
             "utests": [
                 {
                     "arch": "slc6_amd64_gcc481", 
@@ -1715,12 +1715,12 @@
             "tests_archs": [
                 "slc6_amd64_gcc481"
             ], 
-            "comp_baseline": "https://cmssdt.cern.ch/SDT/jenkins-artifacts/ib-baseline-tests/CMSSW_7_1_X_2016-07-24-0000/slc6_amd64_gcc481/-GenuineIntel/matrix-results", 
+            "comp_baseline": "inprogress", 
             "inProgress": false, 
             "release_name": "CMSSW_7_1_X_2016-07-24-0000", 
             "RVExceptions": null, 
             "merged_prs": [], 
-            "hlt_tests": "found"
+            "hlt_tests": "inprogress"
         }, 
         {
             "fwlite": [], 

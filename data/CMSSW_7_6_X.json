@@ -49,7 +49,7 @@
                 }
             ], 
             "compared_tags": "CMSSW_7_6_5_patch1-->CMSSW_7_6_X_2016-07-24-0000", 
-            "valgrind": "found", 
+            "valgrind": "inprogress", 
             "utests": [
                 {
                     "arch": "slc6_amd64_gcc493", 
@@ -68,7 +68,7 @@
                     }
                 }
             ], 
-            "dqm_tests": "found", 
+            "dqm_tests": "inprogress", 
             "igprof": "not-found", 
             "relvals": [
                 {
@@ -92,13 +92,13 @@
                     }
                 }
             ], 
-            "static_checks": "slc6_amd64_gcc493:reports/modules2statics-filter1.txt\n", 
+            "static_checks": "inprogress", 
             "cmsdistTags": {
                 "slc6_amd64_gcc493": "IB/CMSSW_7_6_X_2016-07-24-0000/slc6_amd64_gcc493", 
                 "slc7_amd64_gcc493": "IB/CMSSW_7_6_X_2016-07-24-0000/slc7_amd64_gcc493"
             }, 
             "isIB": true, 
-            "comp_baseline": "https://cmssdt.cern.ch/SDT/jenkins-artifacts/ib-baseline-tests/CMSSW_7_6_X_2016-07-24-0000/slc6_amd64_gcc493/-GenuineIntel/matrix-results", 
+            "comp_baseline": "inprogress", 
             "inProgress": false, 
             "release_name": "CMSSW_7_6_X_2016-07-24-0000", 
             "tests_archs": [
@@ -107,7 +107,7 @@
             ], 
             "RVExceptions": null, 
             "merged_prs": [], 
-            "hlt_tests": "found"
+            "hlt_tests": "inprogress"
         }, 
         {
             "fwlite": [
