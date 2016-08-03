@@ -1569,6 +1569,15 @@
                     "author_login": "diguida"
                 }, 
                 {
+                    "hash": "9b660b8bad4b1e432cab3eeb003ef34e77173350", 
+                    "title": "remove HcalCholeskyMatrix object entirely", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15320", 
+                    "number": "15320", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "kpedro88"
+                }, 
+                {
                     "hash": "cebc7af26add80f358e777bff0bb20f52e4f9bd6", 
                     "title": "Remove SET muon from constructed", 
                     "url": "https://github.com/cms-sw/cmssw/pull/15339", 
@@ -1576,6 +1585,33 @@
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
                     "author_login": "dntaylor"
+                }, 
+                {
+                    "hash": "c766dc4a9364e78fec546389f55ec95af3503f07", 
+                    "title": "fixing typo in geometry in Strip hit efficiency tool ", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15341", 
+                    "number": "15341", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "boudoul"
+                }, 
+                {
+                    "hash": "f6b9f4c105b7e7451c5ea71f5a0f270a3e212d29", 
+                    "title": "IsolatedBunchesMonitor81X", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15345", 
+                    "number": "15345", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "fioriNTU"
+                }, 
+                {
+                    "hash": "74f50bda9d885dad8e3242fd802cc2565c60d566", 
+                    "title": "uMNio data unpacking", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15261", 
+                    "number": "15261", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "UMN-CMS"
                 }
             ], 
             "fwlite": []

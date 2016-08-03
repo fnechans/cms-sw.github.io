@@ -14251,6 +14251,13 @@
     "title": "Switch FastCircleFit to use Eigen, generalize FastCircleFit and RZLine interfaces", 
     "user_ref": "improveFastCircleRZLine"
   }, 
+  "15261": {
+    "author": "UMN-CMS", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "74f50bda9d885dad8e3242fd802cc2565c60d566", 
+    "title": "uMNio data unpacking", 
+    "user_ref": "umnio"
+  }, 
   "15264": {
     "author": "smuzaffar", 
     "branch": "CMSSW_8_0_X", 
@@ -14356,6 +14363,13 @@
     "title": "Fix checking for duplicate process names", 
     "user_ref": "duplicateProcessException"
   }, 
+  "15320": {
+    "author": "kpedro88", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "9b660b8bad4b1e432cab3eeb003ef34e77173350", 
+    "title": "remove HcalCholeskyMatrix object entirely", 
+    "user_ref": "HcalRemoveCholeskyObject"
+  }, 
   "15322": {
     "author": "kpedro88", 
     "branch": "CMSSW_8_1_X", 
@@ -14404,6 +14418,20 @@
     "hash": "cebc7af26add80f358e777bff0bb20f52e4f9bd6", 
     "title": "Remove SET muon from constructed", 
     "user_ref": "removeSET"
+  }, 
+  "15341": {
+    "author": "boudoul", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "c766dc4a9364e78fec546389f55ec95af3503f07", 
+    "title": "fixing typo in geometry in Strip hit efficiency tool ", 
+    "user_ref": "Striphieffi_81X"
+  }, 
+  "15345": {
+    "author": "fioriNTU", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "f6b9f4c105b7e7451c5ea71f5a0f270a3e212d29", 
+    "title": "IsolatedBunchesMonitor81X", 
+    "user_ref": "Isolated81X"
   }, 
   "1542": {
     "author": "Dr15Jones", 
