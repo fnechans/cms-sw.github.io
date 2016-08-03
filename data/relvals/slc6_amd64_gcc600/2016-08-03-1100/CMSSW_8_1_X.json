@@ -23,6 +23,65 @@
     },
     {
         "exitcode": 0,
+        "id": "4.29",
+        "name": "RunMinBias2011B+RunMinBias2011B+HLTD+RECODR1reHLT+HARVESTDR1reHLT+SKIMDreHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 41
+            },
+            {
+                "errors": 383,
+                "status": "PASSED",
+                "warnings": 1142
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            },
+            {
+                "errors": 16,
+                "status": "PASSED",
+                "warnings": 299
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.4",
+        "name": "RunMinBias2012A+RunMinBias2012A+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 83
+            },
+            {
+                "errors": 282,
+                "status": "PASSED",
+                "warnings": 892
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.42",
         "name": "RunMET2012A+RunMET2012A+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
         "steps": [
@@ -67,6 +126,33 @@
                 "errors": 503,
                 "status": "PASSED",
                 "warnings": 1276
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.55",
+        "name": "RunJet2012B+RunJet2012B+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 70
+            },
+            {
+                "errors": 932,
+                "status": "PASSED",
+                "warnings": 1871
             },
             {
                 "errors": 1,
@@ -970,6 +1056,28 @@
     },
     {
         "exitcode": 0,
+        "id": "135.11",
+        "name": "SMS-T1tttt_mGl-1500_mLSP-100_13+SMS-T1tttt_mGl-1500_mLSP-100FS_13+HARVESTUP15FS+MINIAODMCUP15FS",
+        "steps": [
+            {
+                "errors": 36,
+                "status": "PASSED",
+                "warnings": 1285
+            },
+            {
+                "errors": 4,
+                "status": "PASSED",
+                "warnings": 3
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 101
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "135.12",
         "name": "QCD_Pt_80_120_13+QCD_Pt_80_120FS_13+HARVESTUP15FS+MINIAODMCUP15FS",
         "steps": [
@@ -1053,6 +1161,28 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 57
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "135.5",
+        "name": "ZTT_13+ZTTFS_13+HARVESTUP15FS+MINIAODMCUP15FS",
+        "steps": [
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 68
+            },
+            {
+                "errors": 4,
+                "status": "PASSED",
+                "warnings": 3
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 45
             }
         ]
     },
@@ -1470,6 +1600,141 @@
     },
     {
         "exitcode": 0,
+        "id": "1324.0",
+        "name": "TTbarLepton_13+TTbarLepton_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 1570
+            },
+            {
+                "errors": 97,
+                "status": "PASSED",
+                "warnings": 499
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1332.0",
+        "name": "H125GGgluonfusion_13+H125GGgluonfusion_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 7,
+                "status": "PASSED",
+                "warnings": 321
+            },
+            {
+                "errors": 22,
+                "status": "PASSED",
+                "warnings": 406
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1333.0",
+        "name": "PhotonJets_Pt_10_13+PhotonJets_Pt_10_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 418
+            },
+            {
+                "errors": 25,
+                "status": "PASSED",
+                "warnings": 430
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1361.0",
+        "name": "GluGluHToZZTo4L_M125_Pow_py8_Evt_13+GluGluHToZZTo4L_M125_Pow_py8_Evt_13+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 68
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 724
+            },
+            {
+                "errors": 52,
+                "status": "PASSED",
+                "warnings": 1103
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1362.0",
+        "name": "VBFHToZZTo4Nu_M125_Pow_py8_Evt_13+VBFHToZZTo4Nu_M125_Pow_py8_Evt_13+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 70
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 386
+            },
+            {
+                "errors": 26,
+                "status": "PASSED",
+                "warnings": 652
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "1363.0",
         "name": "VBFHToBB_M125_Pow_py8_Evt_13+VBFHToBB_M125_Pow_py8_Evt_13+DIGIUP15+RECOUP15+HARVESTUP15",
         "steps": [
@@ -1776,6 +2041,28 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 79
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "25408.0",
+        "name": "SMS-T1tttt_mGl-1500_mLSP-100_13+FS_SMS-T1tttt_mGl-1500_mLSP-100_13_UP15_PU25+HARVESTUP15FS+MINIAODMCUP15FS",
+        "steps": [
+            {
+                "errors": 32,
+                "status": "PASSED",
+                "warnings": 1848
+            },
+            {
+                "errors": 4,
+                "status": "PASSED",
+                "warnings": 3
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 93
             }
         ]
     },
@@ -2114,6 +2401,33 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 509
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "500203.0",
+        "name": "H125GGgluonfusion_13+H125GGgluonfusion_13INPUT+DIGIPRMXUP15_PU50+RECOPRMXUP15_PU50+HARVESTUP15_PU50",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 670
+            },
+            {
+                "errors": 66,
+                "status": "PASSED",
+                "warnings": 471
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
             }
         ]
     },

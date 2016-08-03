@@ -2697,6 +2697,33 @@
     },
     {
         "exitcode": 0,
+        "id": "300.0",
+        "name": "Pyquen_GammaJet_pt20_2760GeV+Pyquen_GammaJet_pt20_2760GeV+DIGIHIMIX+RECOHIMIX+HARVESTHI",
+        "steps": [
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 37
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 3
+            },
+            {
+                "errors": 484,
+                "status": "PASSED",
+                "warnings": 6
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 10
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "301.0",
         "name": "Pyquen_DiJet_pt80to120_2760GeV+Pyquen_DiJet_pt80to120_2760GeV+DIGIHIMIX+RECOHIMIX+HARVESTHI",
         "steps": [
@@ -2795,6 +2822,33 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1313.0",
+        "name": "QCD_Pt_3000_3500_13+QCD_Pt_3000_3500_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 12,
+                "status": "PASSED",
+                "warnings": 70
+            },
+            {
+                "errors": 102,
+                "status": "PASSED",
+                "warnings": 15
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
