@@ -1369,13 +1369,13 @@
             "igprof": "not-found", 
             "relvals": [
                 {
-                    "done": false, 
+                    "done": true, 
                     "arch": "slc6_amd64_gcc530", 
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/wed/8.1.CLANG-wed-11/CMSSW_8_1_CLANG_X_2016-08-03-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1362, 
-                        "num_failed": 17
+                        "num_passed": 1431, 
+                        "num_failed": 18
                     }
                 }
             ], 
@@ -1475,7 +1475,17 @@
             "release_name": "CMSSW_8_1_X", 
             "tests_archs": [], 
             "RVExceptions": null, 
-            "merged_prs": [], 
+            "merged_prs": [
+                {
+                    "hash": "04f90bc1161937102f32769faa22ba321c2a3392", 
+                    "title": "CTPPS: directory rename Totem -> CTPPS", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15311", 
+                    "number": "15311", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "CTPPS"
+                }
+            ], 
             "fwlite": []
         }
     ]

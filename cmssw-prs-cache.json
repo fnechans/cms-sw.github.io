@@ -14363,6 +14363,13 @@
     "title": "Fix checking for duplicate process names", 
     "user_ref": "duplicateProcessException"
   }, 
+  "15311": {
+    "author": "CTPPS", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "04f90bc1161937102f32769faa22ba321c2a3392", 
+    "title": "CTPPS: directory rename Totem -> CTPPS", 
+    "user_ref": "ctpps_directory_rename"
+  }, 
   "15320": {
     "author": "kpedro88", 
     "branch": "CMSSW_8_1_X", 

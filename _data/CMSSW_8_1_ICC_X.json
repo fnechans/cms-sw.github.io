@@ -1466,7 +1466,17 @@
             "release_name": "CMSSW_8_1_X", 
             "tests_archs": [], 
             "RVExceptions": null, 
-            "merged_prs": [], 
+            "merged_prs": [
+                {
+                    "hash": "04f90bc1161937102f32769faa22ba321c2a3392", 
+                    "title": "CTPPS: directory rename Totem -> CTPPS", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15311", 
+                    "number": "15311", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "CTPPS"
+                }
+            ], 
             "fwlite": []
         }
     ]
