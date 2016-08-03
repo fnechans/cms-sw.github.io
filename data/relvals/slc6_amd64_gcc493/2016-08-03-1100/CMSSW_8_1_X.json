@@ -2111,6 +2111,33 @@
     },
     {
         "exitcode": 0,
+        "id": "38.0",
+        "name": "QCD_FlatPt_15_3000HS+QCD_FlatPt_15_3000HSINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 151
+            },
+            {
+                "errors": 910,
+                "status": "PASSED",
+                "warnings": 2384
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "39.0",
         "name": "QCD_Pt_600_800+QCD_Pt_600_800INPUT+DIGI+RECO+HARVEST",
         "steps": [
@@ -5865,6 +5892,33 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 36
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1306.0",
+        "name": "SingleMuPt1_UP15+SingleMuPt1_UP15INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 206
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 283
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
             }
         ]
     },
