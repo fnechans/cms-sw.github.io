@@ -14377,12 +14377,33 @@
     "title": "81X - Added CSC Unpacker check for FED/DDU<->chamber mapping inconsistencies", 
     "user_ref": "csc_unpacker_fix_for_mapping_inconsistencies_81X"
   }, 
+  "15334": {
+    "author": "uhussain", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "c43805685b3d28d2a4a340e0daf35d9d48ac7daa", 
+    "title": "Fixed variable names in PFBlockAlgo to abide by CMS coding rules ", 
+    "user_ref": "fix_staticAnaWarns"
+  }, 
   "15336": {
     "author": "fabozzi", 
     "branch": "CMSSW_8_1_X", 
     "hash": "ffee0c6a4301a72e5cc9148d1501ec6efff4af4a", 
     "title": "new BPH MC relvals", 
     "user_ref": "from-CMSSW_8_1_X_newrelvals"
+  }, 
+  "15337": {
+    "author": "diguida", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "349b25ccbf7f967293f08a599bfffd55e63162e9", 
+    "title": "Fix http proxy setting in curl for Tier0 DataService query of the Event Display online application", 
+    "user_ref": "fix_HTTP_proxy_curl_EvD_81X"
+  }, 
+  "15339": {
+    "author": "dntaylor", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "cebc7af26add80f358e777bff0bb20f52e4f9bd6", 
+    "title": "Remove SET muon from constructed", 
+    "user_ref": "removeSET"
   }, 
   "1542": {
     "author": "Dr15Jones", 
