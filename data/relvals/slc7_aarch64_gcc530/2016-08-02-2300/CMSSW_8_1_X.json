@@ -784,6 +784,28 @@
     },
     {
         "exitcode": 0,
+        "id": "108.0",
+        "name": "H165WW2L+H165WW2L+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 22
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            },
+            {
+                "errors": 90,
+                "status": "PASSED",
+                "warnings": 105
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "117.0",
         "name": "QCD_Pt_120_170+QCD_Pt_120_170+DIGI+RECO",
         "steps": [
@@ -801,6 +823,28 @@
                 "errors": 85,
                 "status": "PASSED",
                 "warnings": 110
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "118.0",
+        "name": "QCD_Pt_170_230+QCD_Pt_170_230+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 23
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 13
+            },
+            {
+                "errors": 125,
+                "status": "PASSED",
+                "warnings": 116
             }
         ]
     },
