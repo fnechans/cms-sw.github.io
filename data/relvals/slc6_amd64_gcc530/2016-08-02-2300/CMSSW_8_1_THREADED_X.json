@@ -1219,6 +1219,25 @@
     },
     {
         "exitcode": 0,
+        "id": "6.0",
+        "name": "SingleMuPt1+SingleMuPt1INPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "7.0",
         "name": "Cosmics+Cosmics+DIGICOS+RECOCOS+ALCACOS+HARVESTCOS",
         "steps": [
@@ -1455,6 +1474,25 @@
     },
     {
         "exitcode": 0,
+        "id": "17.0",
+        "name": "SingleElectronPt35+SingleElectronPt35INPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "21.0",
         "name": "SingleMuPt100+SingleMuPt100INPUT+DIGI+RECO+HARVEST",
         "steps": [
@@ -1644,6 +1682,25 @@
                 "errors": 3,
                 "status": "PASSED",
                 "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "29.0",
+        "name": "ZEE+ZEEINPUT+DIGI+RECOAlCaCalo+HARVEST",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
             }
         ]
     },
@@ -4395,6 +4452,25 @@
     },
     {
         "exitcode": 0,
+        "id": "202.0",
+        "name": "TTbar+TTbarINPUT+DIGIPU1+RECOPU1+HARVEST",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "204.0",
         "name": "QQH1352T+QQH1352T+DIGIPU1+RECOPU1+HARVEST",
         "steps": [
@@ -5248,6 +5324,22 @@
     },
     {
         "exitcode": 0,
+        "id": "1003.0",
+        "name": "RunMinBias2012A+RunMinBias2012A+RECODDQM+HARVESTDDQM",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "1102.0",
         "name": "RR+TTbarINPUT+DIGI+RECO+RECOFROMRECO+COPYPASTE",
         "steps": [
@@ -5928,6 +6020,25 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1325.3",
+        "name": "TTbar_13+TTbar_13INPUT+DIGIUP15+RECOUP15_trackingOnlyLowPU+HARVESTUP15_trackingOnly",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
             }
         ]
     },
@@ -6905,6 +7016,22 @@
     },
     {
         "exitcode": 0,
+        "id": "4007.0",
+        "name": "QCD_Pt_30_80_BCtoE_8TeV+QCD_Pt_30_80_BCtoE_8TeV+DIGIPU1+RECOPUDBG",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "10021.0",
         "name": "TenMuE_0_200+TenMuE_0_200_pythia8_2017_GenSimFullINPUT+DigiFull_2017+RecoFull_2017+HARVESTFull_2017",
         "steps": [
@@ -7414,6 +7541,25 @@
                 "errors": 2,
                 "status": "PASSED",
                 "warnings": 69
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "11221.0",
+        "name": "TenMuE_0_200+TenMuE_0_200_pythia8_2023GReco_GenSimFull+DigiFull_2023GReco+RecoFullGlobal_2023GReco+HARVESTFullGlobal_2023GReco",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
             }
         ]
     },
@@ -8691,6 +8837,16 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 414
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "500199.0",
+        "name": "PREMIXUP15_PU50+PREMIXUP15_PU50",
+        "steps": [
+            {
+                "status": "PASSED"
             }
         ]
     },
