@@ -1791,7 +1791,7 @@
                 "builds": [], 
                 "valgrind": "not-found", 
                 "compared_tags": "CMSSW_5_3_X_2016-07-24-0000-->CMSSW_5_3_X_2016-07-24-2300", 
-                "dqm_tests": "found", 
+                "dqm_tests": "inprogress", 
                 "utests": [], 
                 "cmsdistTags": {
                     "slc6_amd64_gcc472": "IB/CMSSW_5_3_X_2016-07-24-2300/slc6_amd64_gcc472"
@@ -1801,12 +1801,12 @@
                 "static_checks": "not-found", 
                 "isIB": true, 
                 "tests_archs": [], 
-                "comp_baseline": "https://cmssdt.cern.ch/SDT/jenkins-artifacts/ib-baseline-tests/CMSSW_5_3_X_2016-07-24-2300/slc6_amd64_gcc472/-GenuineIntel/matrix-results", 
+                "comp_baseline": "inprogress", 
                 "inProgress": false, 
                 "release_name": "CMSSW_5_3_X_2016-07-24-2300", 
                 "RVExceptions": null, 
                 "merged_prs": [], 
-                "hlt_tests": "found"
+                "hlt_tests": "inprogress"
             }, 
             {
                 "fwlite": [], 
@@ -5558,7 +5558,7 @@
                 "builds": [], 
                 "valgrind": "not-found", 
                 "compared_tags": "CMSSW_6_2_0_SLHC28_patch1-->CMSSW_6_2_X_SLHC_2016-07-24-0000", 
-                "dqm_tests": "found", 
+                "dqm_tests": "inprogress", 
                 "utests": [], 
                 "cmsdistTags": {}, 
                 "igprof": "not-found", 
@@ -5566,12 +5566,12 @@
                 "static_checks": "not-found", 
                 "isIB": true, 
                 "tests_archs": [], 
-                "comp_baseline": "https://cmssdt.cern.ch/SDT/jenkins-artifacts/ib-baseline-tests/CMSSW_6_2_X_SLHC_2016-07-24-0000/slc6_amd64_gcc472/-GenuineIntel/matrix-results", 
+                "comp_baseline": "inprogress", 
                 "inProgress": false, 
                 "release_name": "CMSSW_6_2_X_SLHC_2016-07-24-0000", 
                 "RVExceptions": null, 
                 "merged_prs": [], 
-                "hlt_tests": "found"
+                "hlt_tests": "inprogress"
             }, 
             {
                 "fwlite": [], 
@@ -12857,7 +12857,7 @@
                 "builds": [], 
                 "valgrind": "not-found", 
                 "compared_tags": "CMSSW_8_0_THREADED_X_2016-07-24-0000-->CMSSW_8_0_THREADED_X_2016-07-24-2300", 
-                "dqm_tests": "found", 
+                "dqm_tests": "inprogress", 
                 "utests": [], 
                 "cmsdistTags": {}, 
                 "igprof": "not-found", 
@@ -13639,19 +13639,19 @@
                 "compared_tags": "CMSSW_8_0_15-->CMSSW_8_0_X_2016-07-24-2300", 
                 "valgrind": "inprogress", 
                 "utests": [], 
-                "dqm_tests": "found", 
+                "dqm_tests": "inprogress", 
                 "igprof": "not-found", 
                 "relvals": [], 
-                "static_checks": "slc6_amd64_gcc530:reports/modules2statics-filter1.txt\n", 
+                "static_checks": "inprogress", 
                 "cmsdistTags": {}, 
                 "isIB": true, 
-                "comp_baseline": "https://cmssdt.cern.ch/SDT/jenkins-artifacts/ib-baseline-tests/CMSSW_8_0_X_2016-07-24-2300/slc6_amd64_gcc530/-GenuineIntel/matrix-results", 
+                "comp_baseline": "inprogress", 
                 "inProgress": false, 
                 "release_name": "CMSSW_8_0_X_2016-07-24-2300", 
                 "tests_archs": [], 
                 "RVExceptions": null, 
                 "merged_prs": [], 
-                "hlt_tests": "found"
+                "hlt_tests": "inprogress"
             }, 
             {
                 "fwlite": [], 
@@ -14425,7 +14425,7 @@
                 "builds": [], 
                 "valgrind": "not-found", 
                 "compared_tags": "CMSSW_8_1_CLANG_X_2016-07-24-1100-->CMSSW_8_1_CLANG_X_2016-07-24-2300", 
-                "dqm_tests": "found", 
+                "dqm_tests": "inprogress", 
                 "utests": [], 
                 "cmsdistTags": {
                     "slc6_amd64_gcc530": "ERR/CMSSW_8_1_CLANG_X_2016-07-24-2300/slc6_amd64_gcc530"
@@ -14449,7 +14449,7 @@
                 "builds": [], 
                 "valgrind": "not-found", 
                 "compared_tags": "CMSSW_8_1_CLANG_X_2016-07-24-2300-->CMSSW_8_1_CLANG_X_2016-07-25-1100", 
-                "dqm_tests": "found", 
+                "dqm_tests": "inprogress", 
                 "utests": [], 
                 "cmsdistTags": {
                     "slc6_amd64_gcc530": "ERR/CMSSW_8_1_CLANG_X_2016-07-25-1100/slc6_amd64_gcc530"
@@ -15893,7 +15893,7 @@
                 "builds": [], 
                 "valgrind": "not-found", 
                 "compared_tags": "CMSSW_8_1_DEVEL_X_2016-07-24-0000-->CMSSW_8_1_DEVEL_X_2016-07-24-2300", 
-                "dqm_tests": "found", 
+                "dqm_tests": "inprogress", 
                 "utests": [], 
                 "cmsdistTags": {
                     "slc6_amd64_gcc530": "IB/CMSSW_8_1_DEVEL_X_2016-07-24-2300/slc6_amd64_gcc530"
@@ -16972,8 +16972,8 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/wed/8.1.DEVEL-wed-23/CMSSW_8_1_DEVEL_X_2016-08-03-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 0, 
-                            "num_failed": 1
+                            "num_passed": 15, 
+                            "num_failed": 2
                         }
                     }
                 ], 
@@ -18477,7 +18477,7 @@
                 "builds": [], 
                 "valgrind": "not-found", 
                 "compared_tags": "CMSSW_8_1_THREADED_X_2016-07-24-0000-->CMSSW_8_1_THREADED_X_2016-07-24-2300", 
-                "dqm_tests": "found", 
+                "dqm_tests": "inprogress", 
                 "utests": [], 
                 "cmsdistTags": {
                     "slc6_amd64_gcc530": "IB/CMSSW_8_1_THREADED_X_2016-07-24-2300/slc6_amd64_gcc530"
@@ -19445,8 +19445,8 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/wed/8.1.THREADED-wed-11/CMSSW_8_1_THREADED_X_2016-08-03-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1425, 
-                            "num_failed": 8
+                            "num_passed": 1439, 
+                            "num_failed": 9
                         }
                     }
                 ], 
@@ -23486,20 +23486,20 @@
                 "comp_baseline_state": "ok", 
                 "builds": [], 
                 "compared_tags": "CMSSW_8_1_X_2016-07-24-1100-->CMSSW_8_1_X_2016-07-24-2300", 
-                "valgrind": "found", 
+                "valgrind": "inprogress", 
                 "utests": [], 
-                "dqm_tests": "found", 
+                "dqm_tests": "inprogress", 
                 "relvals": [], 
-                "static_checks": "slc6_amd64_gcc530:", 
-                "igprof": "found", 
+                "static_checks": "inprogress", 
+                "igprof": "inprogress", 
                 "isIB": true, 
-                "comp_baseline": "https://cmssdt.cern.ch/SDT/jenkins-artifacts/ib-baseline-tests/CMSSW_8_1_X_2016-07-24-2300/slc6_amd64_gcc530/-GenuineIntel/matrix-results", 
+                "comp_baseline": "inprogress", 
                 "inProgress": false, 
                 "release_name": "CMSSW_8_1_X_2016-07-24-2300", 
                 "tests_archs": [], 
                 "RVExceptions": null, 
                 "merged_prs": [], 
-                "hlt_tests": "found"
+                "hlt_tests": "inprogress"
             }, 
             {
                 "fwlite": [], 
@@ -23508,20 +23508,20 @@
                 "comp_baseline_state": "ok", 
                 "builds": [], 
                 "compared_tags": "CMSSW_8_1_X_2016-07-24-2300-->CMSSW_8_1_X_2016-07-25-1100", 
-                "valgrind": "found", 
+                "valgrind": "inprogress", 
                 "utests": [], 
-                "dqm_tests": "found", 
+                "dqm_tests": "inprogress", 
                 "relvals": [], 
-                "static_checks": "slc6_amd64_gcc530:", 
-                "igprof": "found", 
+                "static_checks": "inprogress", 
+                "igprof": "inprogress", 
                 "isIB": true, 
-                "comp_baseline": "https://cmssdt.cern.ch/SDT/jenkins-artifacts/ib-baseline-tests/CMSSW_8_1_X_2016-07-25-1100/slc6_amd64_gcc530/-GenuineIntel/matrix-results", 
+                "comp_baseline": "inprogress", 
                 "inProgress": false, 
                 "release_name": "CMSSW_8_1_X_2016-07-25-1100", 
                 "tests_archs": [], 
                 "RVExceptions": null, 
                 "merged_prs": [], 
-                "hlt_tests": "found"
+                "hlt_tests": "inprogress"
             }, 
             {
                 "fwlite": [], 
@@ -26332,7 +26332,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/wed/8.1-wed-11/CMSSW_8_1_X_2016-08-03-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 60, 
+                            "num_passed": 83, 
                             "num_failed": 0
                         }
                     }, 
@@ -26342,7 +26342,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/wed/8.1-wed-11/CMSSW_8_1_X_2016-08-03-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1381, 
+                            "num_passed": 1428, 
                             "num_failed": 14
                         }
                     }, 
