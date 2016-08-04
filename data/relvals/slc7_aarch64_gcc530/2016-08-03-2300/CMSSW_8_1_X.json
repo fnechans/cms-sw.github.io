@@ -109,6 +109,33 @@
     },
     {
         "exitcode": 1,
+        "id": "134.807",
+        "name": "RunDoubleEGPrpt2015C+RunDoubleEGPrpt2015C+HLTDR2_25ns+RECODR2_25nsreHLT+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "DAS_ERROR",
+                "warnings": 0
+            },
+            {
+                "errors": -1,
+                "status": "NOTRUN",
+                "warnings": -1
+            },
+            {
+                "errors": -1,
+                "status": "NOTRUN",
+                "warnings": -1
+            },
+            {
+                "errors": -1,
+                "status": "NOTRUN",
+                "warnings": -1
+            }
+        ]
+    },
+    {
+        "exitcode": 1,
         "id": "10224.0",
         "name": "TTbar_13+TTbar_13TeV_TuneCUETP8M1_2017PU_GenSimFullINPUT+DigiFullPU_2017PU+RecoFullPU_2017PU+HARVESTFullPU_2017PU",
         "steps": [
@@ -1151,6 +1178,50 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "25403.0",
+        "name": "H125GGgluonfusion_13+FS_H125GGgluonfusion_13_UP15_PU25+HARVESTUP15FS+MINIAODMCUP15FS",
+        "steps": [
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 175
+            },
+            {
+                "errors": 4,
+                "status": "PASSED",
+                "warnings": 3
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "25405.0",
+        "name": "ZTT_13+FS_ZTT_13_UP15_PU25+HARVESTUP15FS+MINIAODMCUP15FS",
+        "steps": [
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 93
+            },
+            {
+                "errors": 4,
+                "status": "PASSED",
+                "warnings": 3
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 7
             }
         ]
     },
