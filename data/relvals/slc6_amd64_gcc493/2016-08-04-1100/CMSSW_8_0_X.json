@@ -5917,6 +5917,28 @@
     },
     {
         "exitcode": 0,
+        "id": "106.0",
+        "name": "bJpsiX+bJpsiX+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 10
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "107.0",
         "name": "QQH120Inv+QQH120Inv+DIGI+RECO",
         "steps": [
@@ -6276,6 +6298,18 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 222
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "123.2",
+        "name": "QCD_Pt_3000_3500+QCD_Pt_3000_3500FS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 134
             }
         ]
     },
@@ -9014,6 +9048,28 @@
                 "errors": 59,
                 "status": "PASSED",
                 "warnings": 264
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4007.0",
+        "name": "QCD_Pt_30_80_BCtoE_8TeV+QCD_Pt_30_80_BCtoE_8TeV+DIGIPU1+RECOPUDBG",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 14
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1
             }
         ]
     },
