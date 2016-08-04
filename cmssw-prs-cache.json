@@ -14440,6 +14440,13 @@
     "title": "IsolatedBunchesMonitor81X", 
     "user_ref": "Isolated81X"
   }, 
+  "15348": {
+    "author": "jalimena", 
+    "branch": "CMSSW_8_1_X", 
+    "hash": "927be351c8f1e54b76f82c7f1dcd2ccc04be057d", 
+    "title": "Update muon timing analyzer 81x", 
+    "user_ref": "UpdateMuonTimingAnalyzer81X"
+  }, 
   "15365": {
     "author": "cms-sw", 
     "branch": "CMSSW_8_0_X", 

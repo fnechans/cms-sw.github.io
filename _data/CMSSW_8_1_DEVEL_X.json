@@ -1063,7 +1063,17 @@
             "release_name": "CMSSW_8_1_ROOT64_X", 
             "tests_archs": [], 
             "RVExceptions": null, 
-            "merged_prs": [], 
+            "merged_prs": [
+                {
+                    "hash": "927be351c8f1e54b76f82c7f1dcd2ccc04be057d", 
+                    "title": "Update muon timing analyzer 81x", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/15348", 
+                    "number": "15348", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": true, 
+                    "author_login": "jalimena"
+                }
+            ], 
             "fwlite": []
         }
     ]
