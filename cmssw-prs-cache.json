@@ -14440,6 +14440,13 @@
     "title": "IsolatedBunchesMonitor81X", 
     "user_ref": "Isolated81X"
   }, 
+  "15365": {
+    "author": "cms-sw", 
+    "branch": "CMSSW_8_0_X", 
+    "hash": "93f88dde5720c971597125a3c98415ae6dc70921", 
+    "title": "Revert \"Updating Trigger Path and Fixing for Empty Histograms for single lept\"", 
+    "user_ref": "revert-14886-topHLTDQM_Update_Jun15"
+  }, 
   "1542": {
     "author": "Dr15Jones", 
     "branch": "CMSSW_5_3_X", 
