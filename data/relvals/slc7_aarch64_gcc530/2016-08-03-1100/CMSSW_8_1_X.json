@@ -590,6 +590,18 @@
     },
     {
         "exitcode": 0,
+        "id": "10824.0",
+        "name": "TTbar_13+TTbar_13TeV_TuneCUETP8M1_2023sim_GenSimFull",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 10
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "10826.0",
         "name": "QCD_Pt_600_800_13+QCD_Pt_600_800_13TeV_TuneCUETP8M1_2023sim_GenSimFull",
         "steps": [
@@ -712,6 +724,33 @@
                 "errors": 52,
                 "status": "PASSED",
                 "warnings": 75
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "25202.0",
+        "name": "TTbar_13+TTbar_13INPUT+DIGIUP15_PU25+RECOUP15_PU25+HARVESTUP15_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 148
+            },
+            {
+                "errors": 103,
+                "status": "PASSED",
+                "warnings": 81
             },
             {
                 "errors": 0,
