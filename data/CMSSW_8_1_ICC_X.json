@@ -1453,8 +1453,8 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/wed/8.1.ICC-wed-23/CMSSW_8_1_ICC_X_2016-08-03-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 63, 
-                        "num_failed": 233
+                        "num_passed": 92, 
+                        "num_failed": 305
                     }
                 }
             ], 

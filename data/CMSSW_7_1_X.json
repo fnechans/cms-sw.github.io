@@ -1796,7 +1796,14 @@
         }, 
         {
             "fwlite": [], 
-            "addons": [], 
+            "addons": [
+                {
+                    "arch": "slc6_amd64_gcc481", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc481/www/wed/7.1-wed-23/CMSSW_7_1_X_2016-08-03-2300/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
             "comp_baseline_state": "ok", 
             "builds": [
                 {
@@ -1823,7 +1830,18 @@
                 "slc6_amd64_gcc481": "IB/CMSSW_7_1_X_2016-08-03-2300/slc6_amd64_gcc481"
             }, 
             "igprof": "not-found", 
-            "relvals": [], 
+            "relvals": [
+                {
+                    "done": false, 
+                    "arch": "slc6_amd64_gcc481", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc481/www/wed/7.1-wed-23/CMSSW_7_1_X_2016-08-03-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 33, 
+                        "num_failed": 8
+                    }
+                }
+            ], 
             "static_checks": "not-found", 
             "isIB": true, 
             "tests_archs": [
@@ -1834,7 +1852,7 @@
             "release_name": "CMSSW_7_1_X_2016-08-03-2300", 
             "RVExceptions": null, 
             "merged_prs": [], 
-            "hlt_tests": "inprogress"
+            "hlt_tests": "found"
         }, 
         {
             "fwlite": [], 
